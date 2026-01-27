@@ -1,5 +1,5 @@
 {
-  "version": "0.2",
+  "version": "0.3",
   "data": [
     {
       "uppercase": "A",
@@ -4607,7 +4607,7 @@
     {
       "uppercase": "Z",
       "lowercase": "z",
-      "name": "제드",
+      "name": "쥐",
       "words": [
         {
           "word": "Zebra",
