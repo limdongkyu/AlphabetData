@@ -1,4 +1,3 @@
 [
-    {"title": "기본", "file": "default.json", "type": "default"},
-    {"title": "마인크레프트", "file": "minecraft.json", "type": "minecraft"}
+    {"title": "기본", "file": "default.json", "type": "default"}
 ]
