@@ -1,0 +1,1429 @@
+{
+  "version": "0.1",
+  "data": [
+    {
+      "uppercase": "A",
+      "lowercase": "a",
+      "name": "哎",
+      "words": [
+        {
+          "word": "Apple",
+          "value": "苹果",
+          "image_type": "emoji",
+          "image_value": "🍎"
+        },
+        {
+          "word": "Arrow",
+          "value": "箭",
+          "image_type": "emoji",
+          "image_value": "🏹"
+        },
+        {
+          "word": "Axe",
+          "value": "斧头",
+          "image_type": "emoji",
+          "image_value": "🪓"
+        },
+        {
+          "word": "Armor",
+          "value": "갑옷",
+          "image_type": "emoji",
+          "image_value": "🛡️"
+        },
+        {
+          "word": "Anvil",
+          "value": "모루",
+          "image_type": "emoji",
+          "image_value": "⚒️"
+        },
+        {
+          "word": "Acacia",
+          "value": "아카시아나무",
+          "image_type": "emoji",
+          "image_value": "🌳"
+        },
+        {
+          "word": "Allay",
+          "value": "앨레이",
+          "image_type": "emoji",
+          "image_value": "✨"
+        },
+        {
+          "word": "Axolotl",
+          "value": "아홀로틀",
+          "image_type": "emoji",
+          "image_value": "🦎"
+        },
+        {
+          "word": "Ancient Debris",
+          "value": "고대의 잔해",
+          "image_type": "emoji",
+          "image_value": "⚫"
+        },
+        {
+          "word": "Amethyst",
+          "value": "자수정",
+          "image_type": "emoji",
+          "image_value": "💜"
+        }
+      ]
+    },
+    {
+      "uppercase": "B",
+      "lowercase": "b",
+      "name": "比",
+      "words": [
+        {
+          "word": "Bed",
+          "value": "床",
+          "image_type": "emoji",
+          "image_value": "🛏️"
+        },
+        {
+          "word": "Bucket",
+          "value": "양동이",
+          "image_type": "emoji",
+          "image_value": "🪣"
+        },
+        {
+          "word": "Bow",
+          "value": "활",
+          "image_type": "emoji",
+          "image_value": "🏹"
+        },
+        {
+          "word": "Boat",
+          "value": "船",
+          "image_type": "emoji",
+          "image_value": "⛵"
+        },
+        {
+          "word": "Block",
+          "value": "블록",
+          "image_type": "emoji",
+          "image_value": "🧱"
+        },
+        {
+          "word": "Brick",
+          "value": "벽돌",
+          "image_type": "emoji",
+          "image_value": "🧱"
+        },
+        {
+          "word": "Blaze",
+          "value": "블레이즈",
+          "image_type": "emoji",
+          "image_value": "🔥"
+        },
+        {
+          "word": "Bone",
+          "value": "뼈",
+          "image_type": "emoji",
+          "image_value": "🦴"
+        },
+        {
+          "word": "Beacon",
+          "value": "신호기",
+          "image_type": "emoji",
+          "image_value": "📡"
+        },
+        {
+          "word": "Bee",
+          "value": "蜜蜂",
+          "image_type": "emoji",
+          "image_value": "🐝"
+        }
+      ]
+    },
+    {
+      "uppercase": "C",
+      "lowercase": "c",
+      "name": "西",
+      "words": [
+        {
+          "word": "Crafting Table",
+          "value": "제작대",
+          "image_type": "emoji",
+          "image_value": "🪵"
+        },
+        {
+          "word": "Chest",
+          "value": "상자",
+          "image_type": "emoji",
+          "image_value": "📦"
+        },
+        {
+          "word": "Chicken",
+          "value": "鸡",
+          "image_type": "emoji",
+          "image_value": "🐔"
+        },
+        {
+          "word": "Cow",
+          "value": "牛",
+          "image_type": "emoji",
+          "image_value": "🐄"
+        },
+        {
+          "word": "Carrot",
+          "value": "당근",
+          "image_type": "emoji",
+          "image_value": "🥕"
+        },
+        {
+          "word": "Coal",
+          "value": "석탄",
+          "image_type": "emoji",
+          "image_value": "⚫"
+        },
+        {
+          "word": "Creeper",
+          "value": "크리퍼",
+          "image_type": "emoji",
+          "image_value": "💥"
+        },
+        {
+          "word": "Cobblestone",
+          "value": "조약돌",
+          "image_type": "emoji",
+          "image_value": "🪨"
+        },
+        {
+          "word": "Cookie",
+          "value": "饼干",
+          "image_type": "emoji",
+          "image_value": "🍪"
+        },
+        {
+          "word": "Compass",
+          "value": "나침반",
+          "image_type": "emoji",
+          "image_value": "🧭"
+        }
+      ]
+    },
+    {
+      "uppercase": "D",
+      "lowercase": "d",
+      "name": "地",
+      "words": [
+        {
+          "word": "Diamond",
+          "value": "다이아몬드",
+          "image_type": "emoji",
+          "image_value": "💎"
+        },
+        {
+          "word": "Door",
+          "value": "门",
+          "image_type": "emoji",
+          "image_value": "🚪"
+        },
+        {
+          "word": "Dirt",
+          "value": "흙",
+          "image_type": "emoji",
+          "image_value": "🟫"
+        },
+        {
+          "word": "Dragon",
+          "value": "엔더드래곤",
+          "image_type": "emoji",
+          "image_value": "🐲"
+        },
+        {
+          "word": "Dispenser",
+          "value": "발사기",
+          "image_type": "emoji",
+          "image_value": "🎯"
+        },
+        {
+          "word": "Dolphin",
+          "value": "돌고래",
+          "image_type": "emoji",
+          "image_value": "🐬"
+        },
+        {
+          "word": "Donkey",
+          "value": "당나귀",
+          "image_type": "emoji",
+          "image_value": "🫏"
+        },
+        {
+          "word": "Drowned",
+          "value": "드라운드",
+          "image_type": "emoji",
+          "image_value": "🧟"
+        },
+        {
+          "word": "Diorite",
+          "value": "섬록암",
+          "image_type": "emoji",
+          "image_value": "⚪"
+        },
+        {
+          "word": "Deepslate",
+          "value": "심층암",
+          "image_type": "emoji",
+          "image_value": "⚫"
+        }
+      ]
+    },
+    {
+      "uppercase": "E",
+      "lowercase": "e",
+      "name": "衣",
+      "words": [
+        {
+          "word": "Egg",
+          "value": "鸡蛋",
+          "image_type": "emoji",
+          "image_value": "🥚"
+        },
+        {
+          "word": "Emerald",
+          "value": "에메랄드",
+          "image_type": "emoji",
+          "image_value": "💚"
+        },
+        {
+          "word": "Enchanting Table",
+          "value": "마법부여대",
+          "image_type": "emoji",
+          "image_value": "✨"
+        },
+        {
+          "word": "Enderman",
+          "value": "엔더맨",
+          "image_type": "emoji",
+          "image_value": "👤"
+        },
+        {
+          "word": "Ender Dragon",
+          "value": "엔더드래곤",
+          "image_type": "emoji",
+          "image_value": "🐲"
+        },
+        {
+          "word": "Eye of Ender",
+          "value": "엔더의눈",
+          "image_type": "emoji",
+          "image_value": "👁️"
+        },
+        {
+          "word": "Elder Guardian",
+          "value": "엘더 가디언",
+          "image_type": "emoji",
+          "image_value": "🐟"
+        },
+        {
+          "word": "Elytra",
+          "value": "겉날개",
+          "image_type": "emoji",
+          "image_value": "🪽"
+        },
+        {
+          "word": "End Crystal",
+          "value": "엔더 수정",
+          "image_type": "emoji",
+          "image_value": "💎"
+        },
+        {
+          "word": "Experience",
+          "value": "경험치",
+          "image_type": "emoji",
+          "image_value": "✨"
+        }
+      ]
+    },
+    {
+      "uppercase": "F",
+      "lowercase": "f",
+      "name": "艾弗",
+      "words": [
+        {
+          "word": "Farm",
+          "value": "농장",
+          "image_type": "emoji",
+          "image_value": "🌾"
+        },
+        {
+          "word": "Furnace",
+          "value": "화로",
+          "image_type": "emoji",
+          "image_value": "🔥"
+        },
+        {
+          "word": "Fish",
+          "value": "鱼",
+          "image_type": "emoji",
+          "image_value": "🐟"
+        },
+        {
+          "word": "Flint",
+          "value": "부싯돌",
+          "image_type": "emoji",
+          "image_value": "⚪"
+        },
+        {
+          "word": "Fire",
+          "value": "火",
+          "image_type": "emoji",
+          "image_value": "🔥"
+        },
+        {
+          "word": "Fence",
+          "value": "울타리",
+          "image_type": "emoji",
+          "image_value": "🚧"
+        },
+        {
+          "word": "Fox",
+          "value": "狐狸",
+          "image_type": "emoji",
+          "image_value": "🦊"
+        },
+        {
+          "word": "Feather",
+          "value": "깃털",
+          "image_type": "emoji",
+          "image_value": "🪶"
+        },
+        {
+          "word": "Flower",
+          "value": "花",
+          "image_type": "emoji",
+          "image_value": "🌸"
+        },
+        {
+          "word": "Fishing Rod",
+          "value": "낚시대",
+          "image_type": "emoji",
+          "image_value": "🎣"
+        }
+      ]
+    },
+    {
+      "uppercase": "G",
+      "lowercase": "g",
+      "name": "吉",
+      "words": [
+        {
+          "word": "Glass",
+          "value": "유리",
+          "image_type": "emoji",
+          "image_value": "🪟"
+        },
+        {
+          "word": "Gold",
+          "value": "금",
+          "image_type": "emoji",
+          "image_value": "🟡"
+        },
+        {
+          "word": "Grass",
+          "value": "잔디",
+          "image_type": "emoji",
+          "image_value": "🌱"
+        },
+        {
+          "word": "Gravel",
+          "value": "자갈",
+          "image_type": "emoji",
+          "image_value": "⚪"
+        },
+        {
+          "word": "Gunpowder",
+          "value": "화약",
+          "image_type": "emoji",
+          "image_value": "💥"
+        },
+        {
+          "word": "Glowstone",
+          "value": "발광석",
+          "image_type": "emoji",
+          "image_value": "💡"
+        },
+        {
+          "word": "Ghast",
+          "value": "가스트",
+          "image_type": "emoji",
+          "image_value": "👻"
+        },
+        {
+          "word": "Goat",
+          "value": "山羊",
+          "image_type": "emoji",
+          "image_value": "🐐"
+        },
+        {
+          "word": "Guardian",
+          "value": "가디언",
+          "image_type": "emoji",
+          "image_value": "🐟"
+        },
+        {
+          "word": "Golem",
+          "value": "골렘",
+          "image_type": "emoji",
+          "image_value": "🤖"
+        }
+      ]
+    },
+    {
+      "uppercase": "H",
+      "lowercase": "h",
+      "name": "艾尺",
+      "words": [
+        {
+          "word": "Hoe",
+          "value": "괭이",
+          "image_type": "emoji",
+          "image_value": "🔨"
+        },
+        {
+          "word": "Horse",
+          "value": "马",
+          "image_type": "emoji",
+          "image_value": "🐴"
+        },
+        {
+          "word": "Helmet",
+          "value": "투구",
+          "image_type": "emoji",
+          "image_value": "🪖"
+        },
+        {
+          "word": "House",
+          "value": "房子",
+          "image_type": "emoji",
+          "image_value": "🏠"
+        },
+        {
+          "word": "Honey",
+          "value": "꿀",
+          "image_type": "emoji",
+          "image_value": "🍯"
+        },
+        {
+          "word": "Hay Bale",
+          "value": "건초더미",
+          "image_type": "emoji",
+          "image_value": "🌾"
+        },
+        {
+          "word": "Hoglin",
+          "value": "호글린",
+          "image_type": "emoji",
+          "image_value": "🐗"
+        },
+        {
+          "word": "Hopper",
+          "value": "깔때기",
+          "image_type": "emoji",
+          "image_value": "🪣"
+        },
+        {
+          "word": "Husk",
+          "value": "허스크",
+          "image_type": "emoji",
+          "image_value": "🧟"
+        },
+        {
+          "word": "Honeycomb",
+          "value": "벌집",
+          "image_type": "emoji",
+          "image_value": "🍯"
+        }
+      ]
+    },
+    {
+      "uppercase": "I",
+      "lowercase": "i",
+      "name": "爱",
+      "words": [
+        {
+          "word": "Iron",
+          "value": "철",
+          "image_type": "emoji",
+          "image_value": "⚙️"
+        },
+        {
+          "word": "Ingot",
+          "value": "주괴",
+          "image_type": "emoji",
+          "image_value": "⚙️"
+        },
+        {
+          "word": "Item",
+          "value": "아이템",
+          "image_type": "emoji",
+          "image_value": "📦"
+        },
+        {
+          "word": "Illager",
+          "value": "약탈자",
+          "image_type": "emoji",
+          "image_value": "⚔️"
+        },
+        {
+          "word": "Ice",
+          "value": "冰",
+          "image_type": "emoji",
+          "image_value": "🧊"
+        },
+        {
+          "word": "Iron Golem",
+          "value": "철 골렘",
+          "image_type": "emoji",
+          "image_value": "🤖"
+        },
+        {
+          "word": "Ink Sac",
+          "value": "먹물 주머니",
+          "image_type": "emoji",
+          "image_value": "🖤"
+        },
+        {
+          "word": "Iron Ore",
+          "value": "철 광석",
+          "image_type": "emoji",
+          "image_value": "⚙️"
+        },
+        {
+          "word": "Illusioner",
+          "value": "환상술사",
+          "image_type": "emoji",
+          "image_value": "🎭"
+        },
+        {
+          "word": "Item Frame",
+          "value": "아이템 액자",
+          "image_type": "emoji",
+          "image_value": "🖼️"
+        }
+      ]
+    },
+    {
+      "uppercase": "J",
+      "lowercase": "j",
+      "name": "杰",
+      "words": [
+        {
+          "word": "Jungle",
+          "value": "정글",
+          "image_type": "emoji",
+          "image_value": "🌴"
+        },
+        {
+          "word": "Jukebox",
+          "value": "주크박스",
+          "image_type": "emoji",
+          "image_value": "📻"
+        },
+        {
+          "word": "Jellyfish",
+          "value": "해파리",
+          "image_type": "emoji",
+          "image_value": "🎐"
+        },
+        {
+          "word": "Jigsaw Block",
+          "value": "직소 블록",
+          "image_type": "emoji",
+          "image_value": "🧩"
+        }
+      ]
+    },
+    {
+      "uppercase": "K",
+      "lowercase": "k",
+      "name": "克",
+      "words": [
+        {
+          "word": "Kelp",
+          "value": "다시마",
+          "image_type": "emoji",
+          "image_value": "🌿"
+        },
+        {
+          "word": "Knight",
+          "value": "기사",
+          "image_type": "emoji",
+          "image_value": "⚔️"
+        },
+        {
+          "word": "Key",
+          "value": "钥匙",
+          "image_type": "emoji",
+          "image_value": "🔑"
+        },
+        {
+          "word": "Killer Rabbit",
+          "value": "킬러 래빗",
+          "image_type": "emoji",
+          "image_value": "🐰"
+        },
+        {
+          "word": "Knowledge Book",
+          "value": "지식 책",
+          "image_type": "emoji",
+          "image_value": "📚"
+        }
+      ]
+    },
+    {
+      "uppercase": "L",
+      "lowercase": "l",
+      "name": "勒",
+      "words": [
+        {
+          "word": "Log",
+          "value": "나무",
+          "image_type": "emoji",
+          "image_value": "🪵"
+        },
+        {
+          "word": "Leather",
+          "value": "가죽",
+          "image_type": "emoji",
+          "image_value": "🐄"
+        },
+        {
+          "word": "Lapis",
+          "value": "청금석",
+          "image_type": "emoji",
+          "image_value": "💙"
+        },
+        {
+          "word": "Ladder",
+          "value": "사다리",
+          "image_type": "emoji",
+          "image_value": "🪜"
+        },
+        {
+          "word": "Lava",
+          "value": "용암",
+          "image_type": "emoji",
+          "image_value": "🌋"
+        },
+        {
+          "word": "Lantern",
+          "value": "랜턴",
+          "image_type": "emoji",
+          "image_value": "🏮"
+        },
+        {
+          "word": "Llama",
+          "value": "라마",
+          "image_type": "emoji",
+          "image_value": "🦙"
+        },
+        {
+          "word": "Lilac",
+          "value": "라일락",
+          "image_type": "emoji",
+          "image_value": "🌸"
+        },
+        {
+          "word": "Lily Pad",
+          "value": "수련 잎",
+          "image_type": "emoji",
+          "image_value": "🌿"
+        },
+        {
+          "word": "Lead",
+          "value": "끈",
+          "image_type": "emoji",
+          "image_value": "🧵"
+        }
+      ]
+    },
+    {
+      "uppercase": "M",
+      "lowercase": "m",
+      "name": "摸",
+      "words": [
+        {
+          "word": "Minecraft",
+          "value": "마인크래프트",
+          "image_type": "emoji",
+          "image_value": "🎮"
+        },
+        {
+          "word": "Mine",
+          "value": "광산",
+          "image_type": "emoji",
+          "image_value": "⛏️"
+        },
+        {
+          "word": "Mob",
+          "value": "몹",
+          "image_type": "emoji",
+          "image_value": "👹"
+        },
+        {
+          "word": "Monster",
+          "value": "몬스터",
+          "image_type": "emoji",
+          "image_value": "👹"
+        },
+        {
+          "word": "Mushroom",
+          "value": "버섯",
+          "image_type": "emoji",
+          "image_value": "🍄"
+        },
+        {
+          "word": "Minecart",
+          "value": "광산수레",
+          "image_type": "emoji",
+          "image_value": "🚂"
+        },
+        {
+          "word": "Magma Cube",
+          "value": "마그마 큐브",
+          "image_type": "emoji",
+          "image_value": "🔥"
+        },
+        {
+          "word": "Mutton",
+          "value": "양고기",
+          "image_type": "emoji",
+          "image_value": "🥩"
+        },
+        {
+          "word": "Music Disc",
+          "value": "음반",
+          "image_type": "emoji",
+          "image_value": "💿"
+        },
+        {
+          "word": "Moss",
+          "value": "이끼",
+          "image_type": "emoji",
+          "image_value": "🌿"
+        }
+      ]
+    },
+    {
+      "uppercase": "N",
+      "lowercase": "n",
+      "name": "恩",
+      "words": [
+        {
+          "word": "Nether",
+          "value": "네더",
+          "image_type": "emoji",
+          "image_value": "🔥"
+        },
+        {
+          "word": "Netherite",
+          "value": "네더라이트",
+          "image_type": "emoji",
+          "image_value": "⚫"
+        },
+        {
+          "word": "Note Block",
+          "value": "음악블록",
+          "image_type": "emoji",
+          "image_value": "🎵"
+        },
+        {
+          "word": "Nether Portal",
+          "value": "네더포털",
+          "image_type": "emoji",
+          "image_value": "🌀"
+        },
+        {
+          "word": "Nether Star",
+          "value": "네더의별",
+          "image_type": "emoji",
+          "image_value": "⭐"
+        },
+        {
+          "word": "Nautilus Shell",
+          "value": "앵무조개",
+          "image_type": "emoji",
+          "image_value": "🐚"
+        },
+        {
+          "word": "Nether Brick",
+          "value": "네더 벽돌",
+          "image_type": "emoji",
+          "image_value": "🧱"
+        },
+        {
+          "word": "Nether Wart",
+          "value": "네더 사마귀",
+          "image_type": "emoji",
+          "image_value": "🟣"
+        },
+        {
+          "word": "Nurse",
+          "value": "간호사",
+          "image_type": "emoji",
+          "image_value": "💉"
+        }
+      ]
+    },
+    {
+      "uppercase": "O",
+      "lowercase": "o",
+      "name": "欧",
+      "words": [
+        {
+          "word": "Oak",
+          "value": "참나무",
+          "image_type": "emoji",
+          "image_value": "🌳"
+        },
+        {
+          "word": "Obsidian",
+          "value": "흑요석",
+          "image_type": "emoji",
+          "image_value": "⚫"
+        },
+        {
+          "word": "Ore",
+          "value": "광석",
+          "image_type": "emoji",
+          "image_value": "💎"
+        },
+        {
+          "word": "Ocelot",
+          "value": "오셀롯",
+          "image_type": "emoji",
+          "image_value": "🐱"
+        },
+        {
+          "word": "Oven",
+          "value": "화로",
+          "image_type": "emoji",
+          "image_value": "🔥"
+        },
+        {
+          "word": "Oxeye Daisy",
+          "value": "데이지",
+          "image_type": "emoji",
+          "image_value": "🌼"
+        },
+        {
+          "word": "Orange",
+          "value": "橙子",
+          "image_type": "emoji",
+          "image_value": "🟠"
+        }
+      ]
+    },
+    {
+      "uppercase": "P",
+      "lowercase": "p",
+      "name": "批",
+      "words": [
+        {
+          "word": "Pickaxe",
+          "value": "곡괭이",
+          "image_type": "emoji",
+          "image_value": "⛏️"
+        },
+        {
+          "word": "Pig",
+          "value": "猪",
+          "image_type": "emoji",
+          "image_value": "🐷"
+        },
+        {
+          "word": "Player",
+          "value": "플레이어",
+          "image_type": "emoji",
+          "image_value": "👤"
+        },
+        {
+          "word": "Pumpkin",
+          "value": "호박",
+          "image_type": "emoji",
+          "image_value": "🎃"
+        },
+        {
+          "word": "Portal",
+          "value": "포털",
+          "image_type": "emoji",
+          "image_value": "🌀"
+        },
+        {
+          "word": "Potato",
+          "value": "감자",
+          "image_type": "emoji",
+          "image_value": "🥔"
+        },
+        {
+          "word": "Phantom",
+          "value": "팬텀",
+          "image_type": "emoji",
+          "image_value": "👻"
+        },
+        {
+          "word": "Panda",
+          "value": "판다",
+          "image_type": "emoji",
+          "image_value": "🐼"
+        },
+        {
+          "word": "Painting",
+          "value": "그림",
+          "image_type": "emoji",
+          "image_value": "🖼️"
+        },
+        {
+          "word": "Pufferfish",
+          "value": "복어",
+          "image_type": "emoji",
+          "image_value": "🐡"
+        }
+      ]
+    },
+    {
+      "uppercase": "Q",
+      "lowercase": "q",
+      "name": "丘",
+      "words": [
+        {
+          "word": "Quartz",
+          "value": "석영",
+          "image_type": "emoji",
+          "image_value": "💎"
+        },
+        {
+          "word": "Quiver",
+          "value": "화살통",
+          "image_type": "emoji",
+          "image_value": "🏹"
+        },
+        {
+          "word": "Quartz Block",
+          "value": "석영 블록",
+          "image_type": "emoji",
+          "image_value": "⚪"
+        },
+        {
+          "word": "Quartz Pillar",
+          "value": "석영 기둥",
+          "image_type": "emoji",
+          "image_value": "⚪"
+        }
+      ]
+    },
+    {
+      "uppercase": "R",
+      "lowercase": "r",
+      "name": "人",
+      "words": [
+        {
+          "word": "Redstone",
+          "value": "레드스톤",
+          "image_type": "emoji",
+          "image_value": "🔴"
+        },
+        {
+          "word": "Rail",
+          "value": "레일",
+          "image_type": "emoji",
+          "image_value": "🚂"
+        },
+        {
+          "word": "Rock",
+          "value": "돌",
+          "image_type": "emoji",
+          "image_value": "🪨"
+        },
+        {
+          "word": "Redstone Torch",
+          "value": "레드스톤횃불",
+          "image_type": "emoji",
+          "image_value": "🔥"
+        },
+        {
+          "word": "Rotten Flesh",
+          "value": "썩은고기",
+          "image_type": "emoji",
+          "image_value": "🥩"
+        },
+        {
+          "word": "Rabbit",
+          "value": "兔子",
+          "image_type": "emoji",
+          "image_value": "🐰"
+        },
+        {
+          "word": "Ravager",
+          "value": "파괴수",
+          "image_type": "emoji",
+          "image_value": "🐂"
+        },
+        {
+          "word": "Redstone Lamp",
+          "value": "레드스톤 램프",
+          "image_type": "emoji",
+          "image_value": "💡"
+        },
+        {
+          "word": "Repeater",
+          "value": "리피터",
+          "image_type": "emoji",
+          "image_value": "🔁"
+        },
+        {
+          "word": "Rose",
+          "value": "玫瑰",
+          "image_type": "emoji",
+          "image_value": "🌹"
+        }
+      ]
+    },
+    {
+      "uppercase": "S",
+      "lowercase": "s",
+      "name": "思",
+      "words": [
+        {
+          "word": "Stone",
+          "value": "돌",
+          "image_type": "emoji",
+          "image_value": "🪨"
+        },
+        {
+          "word": "Sword",
+          "value": "검",
+          "image_type": "emoji",
+          "image_value": "⚔️"
+        },
+        {
+          "word": "Sheep",
+          "value": "양",
+          "image_type": "emoji",
+          "image_value": "🐑"
+        },
+        {
+          "word": "Steve",
+          "value": "스티브",
+          "image_type": "emoji",
+          "image_value": "👤"
+        },
+        {
+          "word": "Sand",
+          "value": "모래",
+          "image_type": "emoji",
+          "image_value": "🏖️"
+        },
+        {
+          "word": "Skeleton",
+          "value": "스켈레톤",
+          "image_type": "emoji",
+          "image_value": "💀"
+        },
+        {
+          "word": "Shovel",
+          "value": "삽",
+          "image_type": "emoji",
+          "image_value": "🪣"
+        },
+        {
+          "word": "Spider",
+          "value": "거미",
+          "image_type": "emoji",
+          "image_value": "🕷️"
+        },
+        {
+          "word": "Salmon",
+          "value": "연어",
+          "image_type": "emoji",
+          "image_value": "🐟"
+        },
+        {
+          "word": "Slime",
+          "value": "슬라임",
+          "image_type": "emoji",
+          "image_value": "🟢"
+        }
+      ]
+    },
+    {
+      "uppercase": "T",
+      "lowercase": "t",
+      "name": "特",
+      "words": [
+        {
+          "word": "Tree",
+          "value": "树",
+          "image_type": "emoji",
+          "image_value": "🌳"
+        },
+        {
+          "word": "Torch",
+          "value": "횃불",
+          "image_type": "emoji",
+          "image_value": "🔥"
+        },
+        {
+          "word": "Tool",
+          "value": "도구",
+          "image_type": "emoji",
+          "image_value": "🔧"
+        },
+        {
+          "word": "TNT",
+          "value": "TNT",
+          "image_type": "emoji",
+          "image_value": "💣"
+        },
+        {
+          "word": "Table",
+          "value": "桌子",
+          "image_type": "emoji",
+          "image_value": "🪵"
+        },
+        {
+          "word": "Trapdoor",
+          "value": "함정문",
+          "image_type": "emoji",
+          "image_value": "🚪"
+        },
+        {
+          "word": "Turtle",
+          "value": "거북이",
+          "image_type": "emoji",
+          "image_value": "🐢"
+        },
+        {
+          "word": "Tadpole",
+          "value": "올챙이",
+          "image_type": "emoji",
+          "image_value": "🐸"
+        },
+        {
+          "word": "Trident",
+          "value": "삼지창",
+          "image_type": "emoji",
+          "image_value": "🔱"
+        },
+        {
+          "word": "Totem",
+          "value": "토템",
+          "image_type": "emoji",
+          "image_value": "🪬"
+        }
+      ]
+    },
+    {
+      "uppercase": "U",
+      "lowercase": "u",
+      "name": "乌",
+      "words": [
+        {
+          "word": "Underwater",
+          "value": "물속",
+          "image_type": "emoji",
+          "image_value": "🌊"
+        },
+        {
+          "word": "Underground",
+          "value": "지하",
+          "image_type": "emoji",
+          "image_value": "🕳️"
+        },
+        {
+          "word": "Underground",
+          "value": "지하",
+          "image_type": "emoji",
+          "image_value": "🕳️"
+        },
+        {
+          "word": "Underwater",
+          "value": "물속",
+          "image_type": "emoji",
+          "image_value": "🌊"
+        },
+        {
+          "word": "Underground",
+          "value": "지하",
+          "image_type": "emoji",
+          "image_value": "🕳️"
+        }
+      ]
+    },
+    {
+      "uppercase": "V",
+      "lowercase": "v",
+      "name": "维",
+      "words": [
+        {
+          "word": "Villager",
+          "value": "주민",
+          "image_type": "emoji",
+          "image_value": "👤"
+        },
+        {
+          "word": "Vines",
+          "value": "덩굴",
+          "image_type": "emoji",
+          "image_value": "🌿"
+        },
+        {
+          "word": "Village",
+          "value": "마을",
+          "image_type": "emoji",
+          "image_value": "🏘️"
+        },
+        {
+          "word": "Vex",
+          "value": "벡스",
+          "image_type": "emoji",
+          "image_value": "👻"
+        },
+        {
+          "word": "Vindicator",
+          "value": "학살자",
+          "image_type": "emoji",
+          "image_value": "⚔️"
+        }
+      ]
+    },
+    {
+      "uppercase": "W",
+      "lowercase": "w",
+      "name": "达不溜",
+      "words": [
+        {
+          "word": "Wood",
+          "value": "나무",
+          "image_type": "emoji",
+          "image_value": "🪵"
+        },
+        {
+          "word": "Water",
+          "value": "水",
+          "image_type": "emoji",
+          "image_value": "💧"
+        },
+        {
+          "word": "Wheat",
+          "value": "밀",
+          "image_type": "emoji",
+          "image_value": "🌾"
+        },
+        {
+          "word": "Wolf",
+          "value": "狼",
+          "image_type": "emoji",
+          "image_value": "🐺"
+        },
+        {
+          "word": "Wool",
+          "value": "털",
+          "image_type": "emoji",
+          "image_value": "🐑"
+        },
+        {
+          "word": "Wooden Sword",
+          "value": "나무검",
+          "image_type": "emoji",
+          "image_value": "⚔️"
+        },
+        {
+          "word": "Warden",
+          "value": "워든",
+          "image_type": "emoji",
+          "image_value": "👹"
+        },
+        {
+          "word": "Witch",
+          "value": "마녀",
+          "image_type": "emoji",
+          "image_value": "🧙"
+        },
+        {
+          "word": "Wither",
+          "value": "위더",
+          "image_type": "emoji",
+          "image_value": "💀"
+        },
+        {
+          "word": "Wither Skeleton",
+          "value": "위더 스켈레톤",
+          "image_type": "emoji",
+          "image_value": "💀"
+        }
+      ]
+    },
+    {
+      "uppercase": "X",
+      "lowercase": "x",
+      "name": "艾克斯",
+      "words": [
+        {
+          "word": "Xp",
+          "value": "경험치",
+          "image_type": "emoji",
+          "image_value": "✨"
+        },
+        {
+          "word": "X-Ray",
+          "value": "엑스레이",
+          "image_type": "emoji",
+          "image_value": "🔍"
+        }
+      ]
+    },
+    {
+      "uppercase": "Y",
+      "lowercase": "y",
+      "name": "吾爱",
+      "words": [
+        {
+          "word": "Yellow",
+          "value": "노란색",
+          "image_type": "emoji",
+          "image_value": "🟡"
+        },
+        {
+          "word": "Yarn",
+          "value": "线",
+          "image_type": "emoji",
+          "image_value": "🧵"
+        }
+      ]
+    },
+    {
+      "uppercase": "Z",
+      "lowercase": "z",
+      "name": "泽德",
+      "words": [
+        {
+          "word": "Zombie",
+          "value": "좀비",
+          "image_type": "emoji",
+          "image_value": "🧟"
+        },
+        {
+          "word": "Zombie Pigman",
+          "value": "좀비 피그맨",
+          "image_type": "emoji",
+          "image_value": "🧟"
+        },
+        {
+          "word": "Zombie Villager",
+          "value": "좀비 주민",
+          "image_type": "emoji",
+          "image_value": "🧟"
+        },
+        {
+          "word": "Zombie Horse",
+          "value": "좀비 말",
+          "image_type": "emoji",
+          "image_value": "🧟"
+        }
+      ]
+    }
+  ]
+}
