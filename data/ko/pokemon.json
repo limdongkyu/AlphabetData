@@ -1,0 +1,1675 @@
+{
+  "version": "0.1",
+  "data": [
+    {
+      "uppercase": "A",
+      "lowercase": "a",
+      "name": "에이",
+      "words": [
+        {
+          "word": "Abra",
+          "value": "캐이시",
+          "image_type": "image",
+          "image_value": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/63.png"
+        },
+        {
+          "word": "Arbok",
+          "value": "아보크",
+          "image_type": "image",
+          "image_value": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/24.png"
+        },
+        {
+          "word": "Articuno",
+          "value": "프리저",
+          "image_type": "image",
+          "image_value": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/144.png"
+        },
+        {
+          "word": "Aerodactyl",
+          "value": "프테라",
+          "image_type": "image",
+          "image_value": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/142.png"
+        },
+        {
+          "word": "Alakazam",
+          "value": "후딘",
+          "image_type": "image",
+          "image_value": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/65.png"
+        },
+        {
+          "word": "Aipom",
+          "value": "에이팜",
+          "image_type": "image",
+          "image_value": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/190.png"
+        },
+        {
+          "word": "Ampharos",
+          "value": "전룡",
+          "image_type": "image",
+          "image_value": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/181.png"
+        },
+        {
+          "word": "Ariados",
+          "value": "아리아도스",
+          "image_type": "image",
+          "image_value": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/168.png"
+        },
+        {
+          "word": "Azumarill",
+          "value": "마릴리",
+          "image_type": "image",
+          "image_value": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/184.png"
+        },
+        {
+          "word": "Azurill",
+          "value": "루리리",
+          "image_type": "image",
+          "image_value": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/298.png"
+        }
+      ]
+    },
+    {
+      "uppercase": "B",
+      "lowercase": "b",
+      "name": "비",
+      "words": [
+        {
+          "word": "Bulbasaur",
+          "value": "이상해씨",
+          "image_type": "image",
+          "image_value": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/1.png"
+        },
+        {
+          "word": "Butterfree",
+          "value": "버터플",
+          "image_type": "image",
+          "image_value": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/12.png"
+        },
+        {
+          "word": "Beedrill",
+          "value": "독침붕",
+          "image_type": "image",
+          "image_value": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/15.png"
+        },
+        {
+          "word": "Blastoise",
+          "value": "거북왕",
+          "image_type": "image",
+          "image_value": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/9.png"
+        },
+        {
+          "word": "Bellsprout",
+          "value": "야돈",
+          "image_type": "image",
+          "image_value": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/69.png"
+        },
+        {
+          "word": "Blissey",
+          "value": "해피너스",
+          "image_type": "image",
+          "image_value": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/242.png"
+        },
+        {
+          "word": "Breloom",
+          "value": "버섯모",
+          "image_type": "image",
+          "image_value": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/286.png"
+        },
+        {
+          "word": "Bayleef",
+          "value": "베이리프",
+          "image_type": "image",
+          "image_value": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/153.png"
+        },
+        {
+          "word": "Blaziken",
+          "value": "번치코",
+          "image_type": "image",
+          "image_value": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/257.png"
+        },
+        {
+          "word": "Buneary",
+          "value": "이어롤",
+          "image_type": "image",
+          "image_value": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/427.png"
+        }
+      ]
+    },
+    {
+      "uppercase": "C",
+      "lowercase": "c",
+      "name": "씨",
+      "words": [
+        {
+          "word": "Charmander",
+          "value": "파이리",
+          "image_type": "image",
+          "image_value": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/4.png"
+        },
+        {
+          "word": "Charizard",
+          "value": "리자몽",
+          "image_type": "image",
+          "image_value": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/6.png"
+        },
+        {
+          "word": "Caterpie",
+          "value": "캐터피",
+          "image_type": "image",
+          "image_value": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10.png"
+        },
+        {
+          "word": "Clefairy",
+          "value": "픽시",
+          "image_type": "image",
+          "image_value": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/35.png"
+        },
+        {
+          "word": "Cloyster",
+          "value": "파르셀",
+          "image_type": "image",
+          "image_value": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/91.png"
+        },
+        {
+          "word": "Chikorita",
+          "value": "치코리타",
+          "image_type": "image",
+          "image_value": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/152.png"
+        },
+        {
+          "word": "Cyndaquil",
+          "value": "브케인",
+          "image_type": "image",
+          "image_value": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/155.png"
+        },
+        {
+          "word": "Croconaw",
+          "value": "엘리게이",
+          "image_type": "image",
+          "image_value": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/159.png"
+        },
+        {
+          "word": "Celebi",
+          "value": "세레비",
+          "image_type": "image",
+          "image_value": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/251.png"
+        },
+        {
+          "word": "Combusken",
+          "value": "영치코",
+          "image_type": "image",
+          "image_value": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/256.png"
+        }
+      ]
+    },
+    {
+      "uppercase": "D",
+      "lowercase": "d",
+      "name": "디",
+      "words": [
+        {
+          "word": "Dragonite",
+          "value": "망나뇽",
+          "image_type": "image",
+          "image_value": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/149.png"
+        },
+        {
+          "word": "Dratini",
+          "value": "미뇽",
+          "image_type": "image",
+          "image_value": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/147.png"
+        },
+        {
+          "word": "Dugtrio",
+          "value": "디그다",
+          "image_type": "image",
+          "image_value": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/51.png"
+        },
+        {
+          "word": "Dewgong",
+          "value": "쥬레곤",
+          "image_type": "image",
+          "image_value": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/87.png"
+        },
+        {
+          "word": "Ditto",
+          "value": "메타몽",
+          "image_type": "image",
+          "image_value": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/132.png"
+        },
+        {
+          "word": "Dunsparce",
+          "value": "노고치",
+          "image_type": "image",
+          "image_value": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/206.png"
+        },
+        {
+          "word": "Donphan",
+          "value": "코코리",
+          "image_type": "image",
+          "image_value": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/232.png"
+        },
+        {
+          "word": "Delibird",
+          "value": "딜리버드",
+          "image_type": "image",
+          "image_value": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/225.png"
+        },
+        {
+          "word": "Delcatty",
+          "value": "델케티",
+          "image_type": "image",
+          "image_value": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/301.png"
+        },
+        {
+          "word": "Dustox",
+          "value": "독케일",
+          "image_type": "image",
+          "image_value": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/269.png"
+        }
+      ]
+    },
+    {
+      "uppercase": "E",
+      "lowercase": "e",
+      "name": "이",
+      "words": [
+        {
+          "word": "Eevee",
+          "value": "이브이",
+          "image_type": "image",
+          "image_value": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/133.png"
+        },
+        {
+          "word": "Ekans",
+          "value": "아보",
+          "image_type": "image",
+          "image_value": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/23.png"
+        },
+        {
+          "word": "Electabuzz",
+          "value": "에레브",
+          "image_type": "image",
+          "image_value": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/125.png"
+        },
+        {
+          "word": "Electrode",
+          "value": "붐볼",
+          "image_type": "image",
+          "image_value": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/101.png"
+        },
+        {
+          "word": "Exeggcute",
+          "value": "탕구리",
+          "image_type": "image",
+          "image_value": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/102.png"
+        },
+        {
+          "word": "Exeggutor",
+          "value": "나시",
+          "image_type": "image",
+          "image_value": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/103.png"
+        },
+        {
+          "word": "Elekid",
+          "value": "에레키드",
+          "image_type": "image",
+          "image_value": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/239.png"
+        },
+        {
+          "word": "Entei",
+          "value": "앤테이",
+          "image_type": "image",
+          "image_value": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/244.png"
+        },
+        {
+          "word": "Espeon",
+          "value": "에브이",
+          "image_type": "image",
+          "image_value": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/196.png"
+        },
+        {
+          "word": "Empoleon",
+          "value": "엠페르트",
+          "image_type": "image",
+          "image_value": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/395.png"
+        }
+      ]
+    },
+    {
+      "uppercase": "F",
+      "lowercase": "f",
+      "name": "에프",
+      "words": [
+        {
+          "word": "Flareon",
+          "value": "부스터",
+          "image_type": "image",
+          "image_value": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/136.png"
+        },
+        {
+          "word": "Farfetchd",
+          "value": "파오리",
+          "image_type": "image",
+          "image_value": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/83.png"
+        },
+        {
+          "word": "Fearow",
+          "value": "깨비참",
+          "image_type": "image",
+          "image_value": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/22.png"
+        },
+        {
+          "word": "Feraligatr",
+          "value": "장크로다일",
+          "image_type": "image",
+          "image_value": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/160.png"
+        },
+        {
+          "word": "Forretress",
+          "value": "피콘",
+          "image_type": "image",
+          "image_value": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/205.png"
+        },
+        {
+          "word": "Furret",
+          "value": "레트라",
+          "image_type": "image",
+          "image_value": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/162.png"
+        },
+        {
+          "word": "Flaaffy",
+          "value": "다꼬리",
+          "image_type": "image",
+          "image_value": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/180.png"
+        },
+        {
+          "word": "Froslass",
+          "value": "눈여아",
+          "image_type": "image",
+          "image_value": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/478.png"
+        },
+        {
+          "word": "Flygon",
+          "value": "플라이곤",
+          "image_type": "image",
+          "image_value": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/330.png"
+        },
+        {
+          "word": "Frosmoth",
+          "value": "모스노우",
+          "image_type": "image",
+          "image_value": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/873.png"
+        }
+      ]
+    },
+    {
+      "uppercase": "G",
+      "lowercase": "g",
+      "name": "지",
+      "words": [
+        {
+          "word": "Gengar",
+          "value": "팬텀",
+          "image_type": "image",
+          "image_value": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/94.png"
+        },
+        {
+          "word": "Golbat",
+          "value": "골뱃",
+          "image_type": "image",
+          "image_value": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/42.png"
+        },
+        {
+          "word": "Golduck",
+          "value": "고라파덕",
+          "image_type": "image",
+          "image_value": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/55.png"
+        },
+        {
+          "word": "Golem",
+          "value": "딱구리",
+          "image_type": "image",
+          "image_value": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/76.png"
+        },
+        {
+          "word": "Growlithe",
+          "value": "가디",
+          "image_type": "image",
+          "image_value": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/58.png"
+        },
+        {
+          "word": "Glaceon",
+          "value": "글레이시아",
+          "image_type": "image",
+          "image_value": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/471.png"
+        },
+        {
+          "word": "Garchomp",
+          "value": "한카리아스",
+          "image_type": "image",
+          "image_value": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/445.png"
+        },
+        {
+          "word": "Gallade",
+          "value": "엘레이드",
+          "image_type": "image",
+          "image_value": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/475.png"
+        },
+        {
+          "word": "Giratina",
+          "value": "기라티나",
+          "image_type": "image",
+          "image_value": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/487.png"
+        },
+        {
+          "word": "Gyarados",
+          "value": "갸라도스",
+          "image_type": "image",
+          "image_value": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/130.png"
+        }
+      ]
+    },
+    {
+      "uppercase": "H",
+      "lowercase": "h",
+      "name": "에이치",
+      "words": [
+        {
+          "word": "Haunter",
+          "value": "고우스트",
+          "image_type": "image",
+          "image_value": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/93.png"
+        },
+        {
+          "word": "Hitmonchan",
+          "value": "홍수몬",
+          "image_type": "image",
+          "image_value": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/107.png"
+        },
+        {
+          "word": "Hitmonlee",
+          "value": "시라소몬",
+          "image_type": "image",
+          "image_value": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/106.png"
+        },
+        {
+          "word": "Horsea",
+          "value": "씨드라",
+          "image_type": "image",
+          "image_value": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/116.png"
+        },
+        {
+          "word": "Hypno",
+          "value": "슬리프",
+          "image_type": "image",
+          "image_value": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/97.png"
+        },
+        {
+          "word": "Hoothoot",
+          "value": "부우부",
+          "image_type": "image",
+          "image_value": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/163.png"
+        },
+        {
+          "word": "Hoppip",
+          "value": "통통코",
+          "image_type": "image",
+          "image_value": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/187.png"
+        },
+        {
+          "word": "Heracross",
+          "value": "헤라크로스",
+          "image_type": "image",
+          "image_value": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/214.png"
+        },
+        {
+          "word": "Houndoom",
+          "value": "헬가",
+          "image_type": "image",
+          "image_value": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/229.png"
+        },
+        {
+          "word": "Hariyama",
+          "value": "하리뭉",
+          "image_type": "image",
+          "image_value": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/297.png"
+        }
+      ]
+    },
+    {
+      "uppercase": "I",
+      "lowercase": "i",
+      "name": "아이",
+      "words": [
+        {
+          "word": "Ivysaur",
+          "value": "이상해풀",
+          "image_type": "image",
+          "image_value": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/2.png"
+        },
+        {
+          "word": "Igglybuff",
+          "value": "푸푸린",
+          "image_type": "image",
+          "image_value": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/174.png"
+        },
+        {
+          "word": "Illumise",
+          "value": "일레도리자드",
+          "image_type": "image",
+          "image_value": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/314.png"
+        },
+        {
+          "word": "Infernape",
+          "value": "초염몽",
+          "image_type": "image",
+          "image_value": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/392.png"
+        },
+        {
+          "word": "Inkay",
+          "value": "만마드",
+          "image_type": "image",
+          "image_value": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/686.png"
+        },
+        {
+          "word": "Inteleon",
+          "value": "인텔리레온",
+          "image_type": "image",
+          "image_value": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/818.png"
+        },
+        {
+          "word": "Incineroar",
+          "value": "어흥염",
+          "image_type": "image",
+          "image_value": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/727.png"
+        },
+        {
+          "word": "Ivysaur",
+          "value": "이상해풀",
+          "image_type": "image",
+          "image_value": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/2.png"
+        },
+        {
+          "word": "Igglybuff",
+          "value": "푸푸린",
+          "image_type": "image",
+          "image_value": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/174.png"
+        },
+        {
+          "word": "Illumise",
+          "value": "일레도리자드",
+          "image_type": "image",
+          "image_value": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/314.png"
+        }
+      ]
+    },
+    {
+      "uppercase": "J",
+      "lowercase": "j",
+      "name": "제이",
+      "words": [
+        {
+          "word": "Jigglypuff",
+          "value": "푸린",
+          "image_type": "image",
+          "image_value": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/39.png"
+        },
+        {
+          "word": "Jolteon",
+          "value": "쥬피썬더",
+          "image_type": "image",
+          "image_value": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/135.png"
+        },
+        {
+          "word": "Jynx",
+          "value": "루주라",
+          "image_type": "image",
+          "image_value": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/124.png"
+        },
+        {
+          "word": "Jumpluff",
+          "value": "에이팜",
+          "image_type": "image",
+          "image_value": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/189.png"
+        },
+        {
+          "word": "Jirachi",
+          "value": "지라치",
+          "image_type": "image",
+          "image_value": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/385.png"
+        },
+        {
+          "word": "Joltik",
+          "value": "저리어",
+          "image_type": "image",
+          "image_value": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/595.png"
+        },
+        {
+          "word": "Jangmo-o",
+          "value": "짜랑꼬",
+          "image_type": "image",
+          "image_value": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/782.png"
+        },
+        {
+          "word": "Jellicent",
+          "value": "로파파",
+          "image_type": "image",
+          "image_value": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/593.png"
+        },
+        {
+          "word": "Jirachi",
+          "value": "지라치",
+          "image_type": "image",
+          "image_value": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/385.png"
+        },
+        {
+          "word": "Jynx",
+          "value": "루주라",
+          "image_type": "image",
+          "image_value": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/124.png"
+        }
+      ]
+    },
+    {
+      "uppercase": "K",
+      "lowercase": "k",
+      "name": "케이",
+      "words": [
+        {
+          "word": "Kadabra",
+          "value": "윤겔라",
+          "image_type": "image",
+          "image_value": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/64.png"
+        },
+        {
+          "word": "Kakuna",
+          "value": "딱충이",
+          "image_type": "image",
+          "image_value": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/14.png"
+        },
+        {
+          "word": "Kangaskhan",
+          "value": "캥카",
+          "image_type": "image",
+          "image_value": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/115.png"
+        },
+        {
+          "word": "Kingler",
+          "value": "킹ler",
+          "image_type": "image",
+          "image_value": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/99.png"
+        },
+        {
+          "word": "Koffing",
+          "value": "또가스",
+          "image_type": "image",
+          "image_value": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/109.png"
+        },
+        {
+          "word": "Kirlia",
+          "value": "키르리아",
+          "image_type": "image",
+          "image_value": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/281.png"
+        },
+        {
+          "word": "Kecleon",
+          "value": "켈리몬",
+          "image_type": "image",
+          "image_value": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/352.png"
+        },
+        {
+          "word": "Kyogre",
+          "value": "가이오가",
+          "image_type": "image",
+          "image_value": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/382.png"
+        },
+        {
+          "word": "Klefki",
+          "value": "클레피",
+          "image_type": "image",
+          "image_value": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/707.png"
+        },
+        {
+          "word": "Komala",
+          "value": "코마루",
+          "image_type": "image",
+          "image_value": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/775.png"
+        }
+      ]
+    },
+    {
+      "uppercase": "L",
+      "lowercase": "l",
+      "name": "엘",
+      "words": [
+        {
+          "word": "Lapras",
+          "value": "라프라스",
+          "image_type": "image",
+          "image_value": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/131.png"
+        },
+        {
+          "word": "Lickitung",
+          "value": "내루미",
+          "image_type": "image",
+          "image_value": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/108.png"
+        },
+        {
+          "word": "Lucario",
+          "value": "루카리오",
+          "image_type": "image",
+          "image_value": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/448.png"
+        },
+        {
+          "word": "Lugia",
+          "value": "루기아",
+          "image_type": "image",
+          "image_value": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/249.png"
+        },
+        {
+          "word": "Lunatone",
+          "value": "루나톤",
+          "image_type": "image",
+          "image_value": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/337.png"
+        },
+        {
+          "word": "Luxray",
+          "value": "렌트라",
+          "image_type": "image",
+          "image_value": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/405.png"
+        },
+        {
+          "word": "Lycanroc",
+          "value": "루가루암",
+          "image_type": "image",
+          "image_value": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/745.png"
+        },
+        {
+          "word": "Litten",
+          "value": "나옹",
+          "image_type": "image",
+          "image_value": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/725.png"
+        },
+        {
+          "word": "Lurantis",
+          "value": "라라티스",
+          "image_type": "image",
+          "image_value": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/754.png"
+        },
+        {
+          "word": "Latias",
+          "value": "라티아스",
+          "image_type": "image",
+          "image_value": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/380.png"
+        }
+      ]
+    },
+    {
+      "uppercase": "M",
+      "lowercase": "m",
+      "name": "엠",
+      "words": [
+        {
+          "word": "Machamp",
+          "value": "괴력몬",
+          "image_type": "image",
+          "image_value": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/68.png"
+        },
+        {
+          "word": "Machoke",
+          "value": "근육몬",
+          "image_type": "image",
+          "image_value": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/67.png"
+        },
+        {
+          "word": "Machop",
+          "value": "알통몬",
+          "image_type": "image",
+          "image_value": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/66.png"
+        },
+        {
+          "word": "Magikarp",
+          "value": "잉어킹",
+          "image_type": "image",
+          "image_value": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/129.png"
+        },
+        {
+          "word": "Magnemite",
+          "value": "코일",
+          "image_type": "image",
+          "image_value": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/81.png"
+        },
+        {
+          "word": "Magneton",
+          "value": "레어코일",
+          "image_type": "image",
+          "image_value": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/82.png"
+        },
+        {
+          "word": "Mamoswine",
+          "value": "맘모꾸리",
+          "image_type": "image",
+          "image_value": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/473.png"
+        },
+        {
+          "word": "Manaphy",
+          "value": "마나피",
+          "image_type": "image",
+          "image_value": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/490.png"
+        },
+        {
+          "word": "Marshadow",
+          "value": "마샤도",
+          "image_type": "image",
+          "image_value": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/802.png"
+        },
+        {
+          "word": "Mawile",
+          "value": "입치트",
+          "image_type": "image",
+          "image_value": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/303.png"
+        }
+      ]
+    },
+    {
+      "uppercase": "N",
+      "lowercase": "n",
+      "name": "엔",
+      "words": [
+        {
+          "word": "Nidoking",
+          "value": "니드킹",
+          "image_type": "image",
+          "image_value": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/34.png"
+        },
+        {
+          "word": "Nidoqueen",
+          "value": "니드퀸",
+          "image_type": "image",
+          "image_value": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/31.png"
+        },
+        {
+          "word": "Nidoran",
+          "value": "니드런",
+          "image_type": "image",
+          "image_value": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/29.png"
+        },
+        {
+          "word": "Ninetales",
+          "value": "나인테일",
+          "image_type": "image",
+          "image_value": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/38.png"
+        },
+        {
+          "word": "Noctowl",
+          "value": "야부엉",
+          "image_type": "image",
+          "image_value": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/164.png"
+        },
+        {
+          "word": "Nuzleaf",
+          "value": "다탕구",
+          "image_type": "image",
+          "image_value": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/274.png"
+        },
+        {
+          "word": "Nihilego",
+          "value": "우츠보트",
+          "image_type": "image",
+          "image_value": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/793.png"
+        },
+        {
+          "word": "Noivern",
+          "value": "음번",
+          "image_type": "image",
+          "image_value": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/715.png"
+        },
+        {
+          "word": "Naganadel",
+          "value": "아고용",
+          "image_type": "image",
+          "image_value": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/804.png"
+        },
+        {
+          "word": "Necrozma",
+          "value": "네크로즈마",
+          "image_type": "image",
+          "image_value": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/800.png"
+        }
+      ]
+    },
+    {
+      "uppercase": "O",
+      "lowercase": "o",
+      "name": "오",
+      "words": [
+        {
+          "word": "Oddish",
+          "value": "뚜벅쵸",
+          "image_type": "image",
+          "image_value": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/43.png"
+        },
+        {
+          "word": "Omanyte",
+          "value": "암나이트",
+          "image_type": "image",
+          "image_value": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/138.png"
+        },
+        {
+          "word": "Omastar",
+          "value": "암스타",
+          "image_type": "image",
+          "image_value": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/139.png"
+        },
+        {
+          "word": "Onix",
+          "value": "롱스톤",
+          "image_type": "image",
+          "image_value": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/95.png"
+        },
+        {
+          "word": "Octillery",
+          "value": "대포무노",
+          "image_type": "image",
+          "image_value": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/224.png"
+        },
+        {
+          "word": "Oshawott",
+          "value": "수댕이",
+          "image_type": "image",
+          "image_value": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/501.png"
+        },
+        {
+          "word": "Oranguru",
+          "value": "네모카",
+          "image_type": "image",
+          "image_value": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/765.png"
+        },
+        {
+          "word": "Obstagoon",
+          "value": "갓고우",
+          "image_type": "image",
+          "image_value": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/862.png"
+        },
+        {
+          "word": "Oricorio",
+          "value": "춤추새",
+          "image_type": "image",
+          "image_value": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/741.png"
+        },
+        {
+          "word": "Oddish",
+          "value": "뚜벅쵸",
+          "image_type": "image",
+          "image_value": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/43.png"
+        }
+      ]
+    },
+    {
+      "uppercase": "P",
+      "lowercase": "p",
+      "name": "피",
+      "words": [
+        {
+          "word": "Pikachu",
+          "value": "피카츄",
+          "image_type": "image",
+          "image_value": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/25.png"
+        },
+        {
+          "word": "Pidgeot",
+          "value": "피죤투",
+          "image_type": "image",
+          "image_value": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/18.png"
+        },
+        {
+          "word": "Pidgeotto",
+          "value": "피죤",
+          "image_type": "image",
+          "image_value": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/17.png"
+        },
+        {
+          "word": "Pidgey",
+          "value": "구구",
+          "image_type": "image",
+          "image_value": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/16.png"
+        },
+        {
+          "word": "Pinsir",
+          "value": "쁘사이저",
+          "image_type": "image",
+          "image_value": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/127.png"
+        },
+        {
+          "word": "Poliwag",
+          "value": "발챙이",
+          "image_type": "image",
+          "image_value": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/60.png"
+        },
+        {
+          "word": "Poliwhirl",
+          "value": "슈륙챙이",
+          "image_type": "image",
+          "image_value": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/61.png"
+        },
+        {
+          "word": "Poliwrath",
+          "value": "강챙이",
+          "image_type": "image",
+          "image_value": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/62.png"
+        },
+        {
+          "word": "Ponyta",
+          "value": "포니타",
+          "image_type": "image",
+          "image_value": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/77.png"
+        },
+        {
+          "word": "Primeape",
+          "value": "성원숭",
+          "image_type": "image",
+          "image_value": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/57.png"
+        }
+      ]
+    },
+    {
+      "uppercase": "Q",
+      "lowercase": "q",
+      "name": "큐",
+      "words": [
+        {
+          "word": "Quagsire",
+          "value": "누오",
+          "image_type": "image",
+          "image_value": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/195.png"
+        },
+        {
+          "word": "Quilava",
+          "value": "마그케인",
+          "image_type": "image",
+          "image_value": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/156.png"
+        },
+        {
+          "word": "Qwilfish",
+          "value": "침바루",
+          "image_type": "image",
+          "image_value": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/211.png"
+        },
+        {
+          "word": "Quaxly",
+          "value": "꼬렛",
+          "image_type": "image",
+          "image_value": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/912.png"
+        },
+        {
+          "word": "Quaxwell",
+          "value": "꼬렛",
+          "image_type": "image",
+          "image_value": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/913.png"
+        },
+        {
+          "word": "Quaquaval",
+          "value": "꼬렛",
+          "image_type": "image",
+          "image_value": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/914.png"
+        },
+        {
+          "word": "Quagsire",
+          "value": "누오",
+          "image_type": "image",
+          "image_value": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/195.png"
+        },
+        {
+          "word": "Quilava",
+          "value": "마그케인",
+          "image_type": "image",
+          "image_value": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/156.png"
+        },
+        {
+          "word": "Qwilfish",
+          "value": "침바루",
+          "image_type": "image",
+          "image_value": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/211.png"
+        },
+        {
+          "word": "Quagsire",
+          "value": "누오",
+          "image_type": "image",
+          "image_value": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/195.png"
+        }
+      ]
+    },
+    {
+      "uppercase": "R",
+      "lowercase": "r",
+      "name": "알",
+      "words": [
+        {
+          "word": "Raichu",
+          "value": "라이츄",
+          "image_type": "image",
+          "image_value": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/26.png"
+        },
+        {
+          "word": "Rapidash",
+          "value": "날쌩마",
+          "image_type": "image",
+          "image_value": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/78.png"
+        },
+        {
+          "word": "Raticate",
+          "value": "레트라",
+          "image_type": "image",
+          "image_value": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/20.png"
+        },
+        {
+          "word": "Rattata",
+          "value": "꼬렛",
+          "image_type": "image",
+          "image_value": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/19.png"
+        },
+        {
+          "word": "Rayquaza",
+          "value": "레쿠쟈",
+          "image_type": "image",
+          "image_value": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/384.png"
+        },
+        {
+          "word": "Regice",
+          "value": "레지아이스",
+          "image_type": "image",
+          "image_value": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/378.png"
+        },
+        {
+          "word": "Regirock",
+          "value": "레지락",
+          "image_type": "image",
+          "image_value": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/377.png"
+        },
+        {
+          "word": "Registeel",
+          "value": "레지스틸",
+          "image_type": "image",
+          "image_value": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/379.png"
+        },
+        {
+          "word": "Riolu",
+          "value": "리오르",
+          "image_type": "image",
+          "image_value": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/447.png"
+        },
+        {
+          "word": "Roserade",
+          "value": "로즈레이드",
+          "image_type": "image",
+          "image_value": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/407.png"
+        }
+      ]
+    },
+    {
+      "uppercase": "S",
+      "lowercase": "s",
+      "name": "에스",
+      "words": [
+        {
+          "word": "Squirtle",
+          "value": "꼬부기",
+          "image_type": "image",
+          "image_value": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/7.png"
+        },
+        {
+          "word": "Scyther",
+          "value": "스라크",
+          "image_type": "image",
+          "image_value": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/123.png"
+        },
+        {
+          "word": "Starmie",
+          "value": "아쿠스타",
+          "image_type": "image",
+          "image_value": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/121.png"
+        },
+        {
+          "word": "Staryu",
+          "value": "별가사리",
+          "image_type": "image",
+          "image_value": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/120.png"
+        },
+        {
+          "word": "Snorlax",
+          "value": "잠만보",
+          "image_type": "image",
+          "image_value": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/143.png"
+        },
+        {
+          "word": "Sceptile",
+          "value": "나무킹",
+          "image_type": "image",
+          "image_value": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/254.png"
+        },
+        {
+          "word": "Swampert",
+          "value": "대짱이",
+          "image_type": "image",
+          "image_value": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/260.png"
+        },
+        {
+          "word": "Salamence",
+          "value": "보만다",
+          "image_type": "image",
+          "image_value": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/373.png"
+        },
+        {
+          "word": "Shaymin",
+          "value": "쉐이미",
+          "image_type": "image",
+          "image_value": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/492.png"
+        },
+        {
+          "word": "Serperior",
+          "value": "샤로다",
+          "image_type": "image",
+          "image_value": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/497.png"
+        }
+      ]
+    },
+    {
+      "uppercase": "T",
+      "lowercase": "t",
+      "name": "티",
+      "words": [
+        {
+          "word": "Tauros",
+          "value": "켄타로스",
+          "image_type": "image",
+          "image_value": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/128.png"
+        },
+        {
+          "word": "Tangela",
+          "value": "덩쿠리",
+          "image_type": "image",
+          "image_value": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/114.png"
+        },
+        {
+          "word": "Tentacool",
+          "value": "발챙이",
+          "image_type": "image",
+          "image_value": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/72.png"
+        },
+        {
+          "word": "Tentacruel",
+          "value": "독파리",
+          "image_type": "image",
+          "image_value": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/73.png"
+        },
+        {
+          "word": "Togepi",
+          "value": "토게피",
+          "image_type": "image",
+          "image_value": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/175.png"
+        },
+        {
+          "word": "Torchic",
+          "value": "아차모",
+          "image_type": "image",
+          "image_value": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/255.png"
+        },
+        {
+          "word": "Treecko",
+          "value": "나무지기",
+          "image_type": "image",
+          "image_value": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/252.png"
+        },
+        {
+          "word": "Typhlosion",
+          "value": "블레이범",
+          "image_type": "image",
+          "image_value": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/157.png"
+        },
+        {
+          "word": "Tyrantrum",
+          "value": "견고라스",
+          "image_type": "image",
+          "image_value": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/697.png"
+        },
+        {
+          "word": "Talonflame",
+          "value": "화살꼬빈",
+          "image_type": "image",
+          "image_value": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/663.png"
+        }
+      ]
+    },
+    {
+      "uppercase": "U",
+      "lowercase": "u",
+      "name": "유",
+      "words": [
+        {
+          "word": "Umbreon",
+          "value": "블래키",
+          "image_type": "image",
+          "image_value": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/197.png"
+        },
+        {
+          "word": "Ursaring",
+          "value": "링곰",
+          "image_type": "image",
+          "image_value": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/217.png"
+        },
+        {
+          "word": "Unown",
+          "value": "안농",
+          "image_type": "image",
+          "image_value": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/201.png"
+        },
+        {
+          "word": "Ursaluna",
+          "value": "다다미",
+          "image_type": "image",
+          "image_value": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/901.png"
+        },
+        {
+          "word": "Urshifu",
+          "value": "우라오스",
+          "image_type": "image",
+          "image_value": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/892.png"
+        },
+        {
+          "word": "Umbreon",
+          "value": "블래키",
+          "image_type": "image",
+          "image_value": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/197.png"
+        },
+        {
+          "word": "Ursaring",
+          "value": "링곰",
+          "image_type": "image",
+          "image_value": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/217.png"
+        },
+        {
+          "word": "Unown",
+          "value": "안농",
+          "image_type": "image",
+          "image_value": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/201.png"
+        },
+        {
+          "word": "Ursaluna",
+          "value": "다다미",
+          "image_type": "image",
+          "image_value": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/901.png"
+        },
+        {
+          "word": "Urshifu",
+          "value": "우라오스",
+          "image_type": "image",
+          "image_value": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/892.png"
+        }
+      ]
+    },
+    {
+      "uppercase": "V",
+      "lowercase": "v",
+      "name": "브이",
+      "words": [
+        {
+          "word": "Vaporeon",
+          "value": "샤미드",
+          "image_type": "image",
+          "image_value": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/134.png"
+        },
+        {
+          "word": "Venomoth",
+          "value": "도나리",
+          "image_type": "image",
+          "image_value": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/49.png"
+        },
+        {
+          "word": "Venonat",
+          "value": "콘팡",
+          "image_type": "image",
+          "image_value": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/48.png"
+        },
+        {
+          "word": "Venusaur",
+          "value": "이상해꽃",
+          "image_type": "image",
+          "image_value": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/3.png"
+        },
+        {
+          "word": "Victreebel",
+          "value": "우츠동",
+          "image_type": "image",
+          "image_value": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/71.png"
+        },
+        {
+          "word": "Vileplume",
+          "value": "라플레시아",
+          "image_type": "image",
+          "image_value": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/45.png"
+        },
+        {
+          "word": "Volcarona",
+          "value": "불카모스",
+          "image_type": "image",
+          "image_value": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/637.png"
+        },
+        {
+          "word": "Vanilluxe",
+          "value": "바닐리치",
+          "image_type": "image",
+          "image_value": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/584.png"
+        },
+        {
+          "word": "Vespiquen",
+          "value": "비퀸",
+          "image_type": "image",
+          "image_value": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/416.png"
+        },
+        {
+          "word": "Vibrava",
+          "value": "비브라바",
+          "image_type": "image",
+          "image_value": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/329.png"
+        }
+      ]
+    },
+    {
+      "uppercase": "W",
+      "lowercase": "w",
+      "name": "더블유",
+      "words": [
+        {
+          "word": "Wartortle",
+          "value": "어니부기",
+          "image_type": "image",
+          "image_value": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/8.png"
+        },
+        {
+          "word": "Weedle",
+          "value": "뿔충이",
+          "image_type": "image",
+          "image_value": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/13.png"
+        },
+        {
+          "word": "Weepinbell",
+          "value": "우츠동",
+          "image_type": "image",
+          "image_value": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/70.png"
+        },
+        {
+          "word": "Weezing",
+          "value": "또도가스",
+          "image_type": "image",
+          "image_value": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/110.png"
+        },
+        {
+          "word": "Wigglytuff",
+          "value": "푸크린",
+          "image_type": "image",
+          "image_value": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/40.png"
+        },
+        {
+          "word": "Wobbuffet",
+          "value": "마자용",
+          "image_type": "image",
+          "image_value": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/202.png"
+        },
+        {
+          "word": "Wurmple",
+          "value": "도토링",
+          "image_type": "image",
+          "image_value": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/265.png"
+        },
+        {
+          "word": "Wailord",
+          "value": "고래왕",
+          "image_type": "image",
+          "image_value": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/321.png"
+        },
+        {
+          "word": "Whiscash",
+          "value": "메깅",
+          "image_type": "image",
+          "image_value": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/340.png"
+        },
+        {
+          "word": "Wingull",
+          "value": "갈모매",
+          "image_type": "image",
+          "image_value": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/278.png"
+        }
+      ]
+    },
+    {
+      "uppercase": "X",
+      "lowercase": "x",
+      "name": "엑스",
+      "words": [
+        {
+          "word": "Xatu",
+          "value": "네이티오",
+          "image_type": "image",
+          "image_value": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/178.png"
+        },
+        {
+          "word": "Xerneas",
+          "value": "제르네아스",
+          "image_type": "image",
+          "image_value": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/716.png"
+        },
+        {
+          "word": "Xurkitree",
+          "value": "전수목",
+          "image_type": "image",
+          "image_value": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/796.png"
+        }
+      ]
+    },
+    {
+      "uppercase": "Y",
+      "lowercase": "y",
+      "name": "와이",
+      "words": [
+        {
+          "word": "Yanma",
+          "value": "왕자리",
+          "image_type": "image",
+          "image_value": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/193.png"
+        },
+        {
+          "word": "Yveltal",
+          "value": "이벨타르",
+          "image_type": "image",
+          "image_value": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/717.png"
+        },
+        {
+          "word": "Yamper",
+          "value": "멍파치",
+          "image_type": "image",
+          "image_value": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/835.png"
+        },
+        {
+          "word": "Yanmega",
+          "value": "메가자리",
+          "image_type": "image",
+          "image_value": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/469.png"
+        },
+        {
+          "word": "Yungoos",
+          "value": "누니머기",
+          "image_type": "image",
+          "image_value": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/734.png"
+        }
+      ]
+    },
+    {
+      "uppercase": "Z",
+      "lowercase": "z",
+      "name": "제드",
+      "words": [
+        {
+          "word": "Zapdos",
+          "value": "썬더",
+          "image_type": "image",
+          "image_value": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/145.png"
+        },
+        {
+          "word": "Zubat",
+          "value": "주뱃",
+          "image_type": "image",
+          "image_value": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/41.png"
+        },
+        {
+          "word": "Zangoose",
+          "value": "쟝고",
+          "image_type": "image",
+          "image_value": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/335.png"
+        },
+        {
+          "word": "Zigzagoon",
+          "value": "지그제구리",
+          "image_type": "image",
+          "image_value": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/263.png"
+        },
+        {
+          "word": "Zoroark",
+          "value": "조로아크",
+          "image_type": "image",
+          "image_value": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/571.png"
+        },
+        {
+          "word": "Zorua",
+          "value": "조로아",
+          "image_type": "image",
+          "image_value": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/570.png"
+        },
+        {
+          "word": "Zygarde",
+          "value": "지가르데",
+          "image_type": "image",
+          "image_value": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/718.png"
+        },
+        {
+          "word": "Zacian",
+          "value": "자시안",
+          "image_type": "image",
+          "image_value": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/888.png"
+        },
+        {
+          "word": "Zamazenta",
+          "value": "자마젠타",
+          "image_type": "image",
+          "image_value": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/889.png"
+        },
+        {
+          "word": "Zekrom",
+          "value": "제크로무",
+          "image_type": "image",
+          "image_value": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/644.png"
+        }
+      ]
+    }
+  ]
+}
