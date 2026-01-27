@@ -1,5 +1,5 @@
 {
-  "version": "0.1",
+  "version": "0.2",
   "data": [
     {
       "uppercase": "A",
@@ -59,12 +59,6 @@
           "value": "유인원",
           "image_type": "emoji",
           "image_value": "🦍"
-        },
-        {
-          "word": "Arrow",
-          "value": "화살표",
-          "image_type": "emoji",
-          "image_value": "🏹"
         },
         {
           "word": "Ambulance",
