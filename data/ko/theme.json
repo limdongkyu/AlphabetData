@@ -1,4 +1,22 @@
 [
-    {"title": "기본", "file": "default.json", "type": "default"},
-    {"title": "포켓몬", "file": "pokemon.json", "type": "pokemon"}
+    {
+        "title": "기본", 
+        "file": "default.json", 
+        "type": "default",
+        "backgroundColor": "#667EEA",
+        "textColor": "#1F2937",
+        "primaryColor": "#3B82F6",
+        "secondaryColor": "#F59E0B",
+        "accentColor": "#10B981"
+    },
+    {
+        "title": "포켓몬", 
+        "file": "pokemon.json", 
+        "type": "pokemon",
+        "backgroundColor": "#FFFF6B6B",
+        "textColor": "#1F2937",
+        "primaryColor": "#FFFF6B6B",
+        "secondaryColor": "#4ECDC4",
+        "accentColor": "#FFFFE66D"
+    }
 ]
