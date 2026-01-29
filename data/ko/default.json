@@ -37,28 +37,10 @@
           "image_value": "✈️"
         },
         {
-          "word": "Arrow",
-          "value": "화살",
-          "image_type": "emoji",
-          "image_value": "➡️"
-        },
-        {
           "word": "Art",
           "value": "미술",
           "image_type": "emoji",
           "image_value": "🎨"
-        },
-        {
-          "word": "Ask",
-          "value": "물어보다",
-          "image_type": "emoji",
-          "image_value": "❓"
-        },
-        {
-          "word": "Ape",
-          "value": "유인원",
-          "image_type": "emoji",
-          "image_value": "🦍"
         },
         {
           "word": "Ambulance",
@@ -79,24 +61,6 @@
           "image_value": "🐾"
         },
         {
-          "word": "Acorn",
-          "value": "도토리",
-          "image_type": "emoji",
-          "image_value": "🌰"
-        },
-        {
-          "word": "Astronaut",
-          "value": "우주비행사",
-          "image_type": "emoji",
-          "image_value": "👨‍🚀"
-        },
-        {
-          "word": "At",
-          "value": "~에",
-          "image_type": "emoji",
-          "image_value": "📍"
-        },
-        {
           "word": "Aunt",
           "value": "이모",
           "image_type": "emoji",
@@ -109,58 +73,16 @@
           "image_value": "🍂"
         },
         {
-          "word": "Axe",
-          "value": "도끼",
-          "image_type": "emoji",
-          "image_value": "🪓"
-        },
-        {
-          "word": "Add",
-          "value": "더하기",
-          "image_type": "emoji",
-          "image_value": "➕"
-        },
-        {
-          "word": "After",
-          "value": "이후",
-          "image_type": "emoji",
-          "image_value": "⏰"
-        },
-        {
           "word": "Age",
           "value": "나이",
           "image_type": "emoji",
           "image_value": "🎂"
         },
         {
-          "word": "Ago",
-          "value": "전에",
-          "image_type": "emoji",
-          "image_value": "⏪"
-        },
-        {
-          "word": "Aid",
-          "value": "도움",
-          "image_type": "emoji",
-          "image_value": "🆘"
-        },
-        {
-          "word": "Aim",
-          "value": "목표",
-          "image_type": "emoji",
-          "image_value": "🎯"
-        },
-        {
           "word": "Air",
           "value": "공기",
           "image_type": "emoji",
           "image_value": "💨"
-        },
-        {
-          "word": "Alarm",
-          "value": "알람",
-          "image_type": "emoji",
-          "image_value": "⏰"
         }
       ]
     },
@@ -272,82 +194,17 @@
           "image_value": "🔔"
         },
         {
-          "word": "Bat",
-          "value": "박쥐",
-          "image_type": "emoji",
-          "image_value": "🦇"
-        },
-        {
-          "word": "Big",
-          "value": "큰",
-          "image_type": "emoji",
-          "image_value": "🔴"
-        },
-        {
           "word": "Bag",
           "value": "가방",
           "image_type": "emoji",
           "image_value": "👜"
         },
-        {
-          "word": "Button",
-          "value": "단추",
-          "image_type": "emoji",
-          "image_value": "🔘"
-        },
-        {
-          "word": "Bad",
-          "value": "나쁜",
-          "image_type": "emoji",
-          "image_value": "❌"
-        },
-        {
-          "word": "Back",
-          "value": "뒤",
-          "image_type": "emoji",
-          "image_value": "🔙"
-        },
-        {
-          "word": "Be",
-          "value": "~이다",
-          "image_type": "emoji",
-          "image_value": "✅"
-        },
-        {
-          "word": "Bean",
-          "value": "콩",
-          "image_type": "emoji",
-          "image_value": "🫘"
-        },
-        {
-          "word": "Beard",
-          "value": "수염",
-          "image_type": "emoji",
-          "image_value": "🧔"
-        },
-        {
-          "word": "Beat",
-          "value": "치다",
-          "image_type": "emoji",
-          "image_value": "🥁"
-        },
+        
         {
           "word": "Beautiful",
           "value": "아름다운",
           "image_type": "emoji",
           "image_value": "✨"
-        },
-        {
-          "word": "Bedroom",
-          "value": "침실",
-          "image_type": "emoji",
-          "image_value": "🛏️"
-        },
-        {
-          "word": "Beep",
-          "value": "삐삐",
-          "image_type": "emoji",
-          "image_value": "📢"
         }
       ]
     },
@@ -447,46 +304,10 @@
           "image_value": "🌽"
         },
         {
-          "word": "Cut",
-          "value": "자르다",
-          "image_type": "emoji",
-          "image_value": "✂️"
-        },
-        {
-          "word": "Can",
-          "value": "~할 수 있다",
-          "image_type": "emoji",
-          "image_value": "✅"
-        },
-        {
-          "word": "Come",
-          "value": "오다",
-          "image_type": "emoji",
-          "image_value": "➡️"
-        },
-        {
-          "word": "Call",
-          "value": "부르다",
-          "image_type": "emoji",
-          "image_value": "📞"
-        },
-        {
           "word": "Camel",
           "value": "낙타",
           "image_type": "emoji",
           "image_value": "🐪"
-        },
-        {
-          "word": "Camp",
-          "value": "캠프",
-          "image_type": "emoji",
-          "image_value": "⛺"
-        },
-        {
-          "word": "Can",
-          "value": "캔",
-          "image_type": "emoji",
-          "image_value": "🥫"
         },
         {
           "word": "Candle",
@@ -506,18 +327,7 @@
           "image_type": "emoji",
           "image_value": "🃏"
         },
-        {
-          "word": "Care",
-          "value": "돌봄",
-          "image_type": "emoji",
-          "image_value": "💕"
-        },
-        {
-          "word": "Carpet",
-          "value": "카펫",
-          "image_type": "emoji",
-          "image_value": "🟨"
-        },
+        
         {
           "word": "Carrot",
           "value": "당근",
@@ -529,12 +339,6 @@
           "value": "성",
           "image_type": "emoji",
           "image_value": "🏰"
-        },
-        {
-          "word": "Catch",
-          "value": "잡다",
-          "image_type": "emoji",
-          "image_value": "🤲"
         }
       ]
     },
@@ -598,12 +402,6 @@
           "image_value": "💃"
         },
         {
-          "word": "Draw",
-          "value": "그리다",
-          "image_type": "emoji",
-          "image_value": "✏️"
-        },
-        {
           "word": "Drum",
           "value": "드럼",
           "image_type": "emoji",
@@ -616,28 +414,10 @@
           "image_value": "💎"
         },
         {
-          "word": "Dig",
-          "value": "파다",
-          "image_type": "emoji",
-          "image_value": "⛏️"
-        },
-        {
-          "word": "Dark",
-          "value": "어두운",
-          "image_type": "emoji",
-          "image_value": "🌑"
-        },
-        {
           "word": "Date",
           "value": "날짜",
           "image_type": "emoji",
           "image_value": "📅"
-        },
-        {
-          "word": "Deep",
-          "value": "깊은",
-          "image_type": "emoji",
-          "image_value": "🌊"
         },
         {
           "word": "Deer",
@@ -646,40 +426,10 @@
           "image_value": "🦌"
         },
         {
-          "word": "Dentist",
-          "value": "치과의사",
-          "image_type": "emoji",
-          "image_value": "🦷"
-        },
-        {
-          "word": "Did",
-          "value": "했다",
-          "image_type": "emoji",
-          "image_value": "✅"
-        },
-        {
-          "word": "Die",
-          "value": "주사위",
-          "image_type": "emoji",
-          "image_value": "🎲"
-        },
-        {
-          "word": "Dirty",
-          "value": "더러운",
-          "image_type": "emoji",
-          "image_value": "🪣"
-        },
-        {
           "word": "Dish",
           "value": "접시",
           "image_type": "emoji",
           "image_value": "🍽️"
-        },
-        {
-          "word": "Do",
-          "value": "하다",
-          "image_type": "emoji",
-          "image_value": "✅"
         },
         {
           "word": "Doctor",
@@ -700,28 +450,10 @@
           "image_value": "🫏"
         },
         {
-          "word": "Down",
-          "value": "아래로",
-          "image_type": "emoji",
-          "image_value": "⬇️"
-        },
-        {
           "word": "Dream",
           "value": "꿈",
           "image_type": "emoji",
           "image_value": "💭"
-        },
-        {
-          "word": "Dress",
-          "value": "드레스",
-          "image_type": "emoji",
-          "image_value": "👗"
-        },
-        {
-          "word": "Drink",
-          "value": "마시다",
-          "image_type": "emoji",
-          "image_value": "🥤"
         }
       ]
     },
@@ -767,34 +499,10 @@
           "image_value": "👂"
         },
         {
-          "word": "Eat",
-          "value": "먹다",
-          "image_type": "emoji",
-          "image_value": "🍽️"
-        },
-        {
-          "word": "Eight",
-          "value": "8",
-          "image_type": "emoji",
-          "image_value": "8️⃣"
-        },
-        {
           "word": "Elbow",
           "value": "팔꿈치",
           "image_type": "emoji",
           "image_value": "🦵"
-        },
-        {
-          "word": "Elf",
-          "value": "요정",
-          "image_type": "emoji",
-          "image_value": "🧝"
-        },
-        {
-          "word": "Empty",
-          "value": "빈",
-          "image_type": "emoji",
-          "image_value": "📭"
         },
         {
           "word": "End",
@@ -809,46 +517,10 @@
           "image_value": "⚙️"
         },
         {
-          "word": "Envelope",
-          "value": "봉투",
-          "image_type": "emoji",
-          "image_value": "✉️"
-        },
-        {
-          "word": "Equal",
-          "value": "같은",
-          "image_type": "emoji",
-          "image_value": "⚖️"
-        },
-        {
           "word": "Eraser",
           "value": "지우개",
           "image_type": "emoji",
           "image_value": "🧽"
-        },
-        {
-          "word": "Even",
-          "value": "짝수",
-          "image_type": "emoji",
-          "image_value": "2️⃣"
-        },
-        {
-          "word": "Every",
-          "value": "모든",
-          "image_type": "emoji",
-          "image_value": "🔄"
-        },
-        {
-          "word": "Exit",
-          "value": "나가다",
-          "image_type": "emoji",
-          "image_value": "🚪"
-        },
-        {
-          "word": "Extra",
-          "value": "추가",
-          "image_type": "emoji",
-          "image_value": "➕"
         },
         {
           "word": "Eyes",
@@ -863,18 +535,6 @@
           "image_value": "💎"
         },
         {
-          "word": "Early",
-          "value": "일찍",
-          "image_type": "emoji",
-          "image_value": "🌅"
-        },
-        {
-          "word": "Easy",
-          "value": "쉬운",
-          "image_type": "emoji",
-          "image_value": "👍"
-        },
-        {
           "word": "Echo",
           "value": "메아리",
           "image_type": "emoji",
@@ -885,12 +545,6 @@
           "value": "가장자리",
           "image_type": "emoji",
           "image_value": "📐"
-        },
-        {
-          "word": "Eel",
-          "value": "뱀장어",
-          "image_type": "emoji",
-          "image_value": "🐍"
         }
       ]
     },
@@ -935,23 +589,12 @@
           "image_type": "emoji",
           "image_value": "😊"
         },
-        {
-          "word": "Fan",
-          "value": "부채",
-          "image_type": "emoji",
-          "image_value": "🌀"
-        },
+        
         {
           "word": "Farm",
           "value": "농장",
           "image_type": "emoji",
           "image_value": "🚜"
-        },
-        {
-          "word": "Fast",
-          "value": "빠른",
-          "image_type": "emoji",
-          "image_value": "⚡"
         },
         {
           "word": "Father",
@@ -966,18 +609,6 @@
           "image_value": "🪶"
         },
         {
-          "word": "Feed",
-          "value": "먹이다",
-          "image_type": "emoji",
-          "image_value": "🍼"
-        },
-        {
-          "word": "Feel",
-          "value": "느끼다",
-          "image_type": "emoji",
-          "image_value": "🤲"
-        },
-        {
           "word": "Feet",
           "value": "발들",
           "image_type": "emoji",
@@ -990,34 +621,10 @@
           "image_value": "🚧"
         },
         {
-          "word": "Few",
-          "value": "조금",
-          "image_type": "emoji",
-          "image_value": "👋"
-        },
-        {
           "word": "Field",
           "value": "들판",
           "image_type": "emoji",
           "image_value": "🌾"
-        },
-        {
-          "word": "Fight",
-          "value": "싸우다",
-          "image_type": "emoji",
-          "image_value": "⚔️"
-        },
-        {
-          "word": "Find",
-          "value": "찾다",
-          "image_type": "emoji",
-          "image_value": "🔍"
-        },
-        {
-          "word": "Fine",
-          "value": "좋은",
-          "image_type": "emoji",
-          "image_value": "👍"
         },
         {
           "word": "Finger",
@@ -1026,28 +633,10 @@
           "image_value": "👆"
         },
         {
-          "word": "Finish",
-          "value": "끝내다",
-          "image_type": "emoji",
-          "image_value": "🏁"
-        },
-        {
           "word": "First",
           "value": "첫번째",
           "image_type": "emoji",
           "image_value": "1️⃣"
-        },
-        {
-          "word": "Five",
-          "value": "5",
-          "image_type": "emoji",
-          "image_value": "5️⃣"
-        },
-        {
-          "word": "Fix",
-          "value": "고치다",
-          "image_type": "emoji",
-          "image_value": "🔧"
         },
         {
           "word": "Flag",
@@ -1056,22 +645,10 @@
           "image_value": "🚩"
         },
         {
-          "word": "Flat",
-          "value": "평평한",
-          "image_type": "emoji",
-          "image_value": "📏"
-        },
-        {
           "word": "Floor",
           "value": "바닥",
           "image_type": "emoji",
           "image_value": "⬜"
-        },
-        {
-          "word": "Fly",
-          "value": "날다",
-          "image_type": "emoji",
-          "image_value": "✈️"
         },
         {
           "word": "Food",
@@ -1141,34 +718,10 @@
           "image_value": "🚧"
         },
         {
-          "word": "Get",
-          "value": "얻다",
-          "image_type": "emoji",
-          "image_value": "🤲"
-        },
-        {
           "word": "Ghost",
           "value": "유령",
           "image_type": "emoji",
           "image_value": "👻"
-        },
-        {
-          "word": "Giant",
-          "value": "거인",
-          "image_type": "emoji",
-          "image_value": "👹"
-        },
-        {
-          "word": "Give",
-          "value": "주다",
-          "image_type": "emoji",
-          "image_value": "🤝"
-        },
-        {
-          "word": "Glad",
-          "value": "기쁜",
-          "image_type": "emoji",
-          "image_value": "😊"
         },
         {
           "word": "Glass",
@@ -1181,12 +734,6 @@
           "value": "장갑",
           "image_type": "emoji",
           "image_value": "🧤"
-        },
-        {
-          "word": "Go",
-          "value": "가다",
-          "image_type": "emoji",
-          "image_value": "🚶"
         },
         {
           "word": "Goat",
@@ -1207,12 +754,6 @@
           "image_value": "🥇"
         },
         {
-          "word": "Good",
-          "value": "좋은",
-          "image_type": "emoji",
-          "image_value": "👍"
-        },
-        {
           "word": "Goose",
           "value": "거위",
           "image_type": "emoji",
@@ -1231,28 +772,10 @@
           "image_value": "⚪"
         },
         {
-          "word": "Great",
-          "value": "훌륭한",
-          "image_type": "emoji",
-          "image_value": "🌟"
-        },
-        {
           "word": "Green",
           "value": "초록색",
           "image_type": "emoji",
           "image_value": "🟢"
-        },
-        {
-          "word": "Grow",
-          "value": "자라다",
-          "image_type": "emoji",
-          "image_value": "📈"
-        },
-        {
-          "word": "Gum",
-          "value": "껌",
-          "image_type": "emoji",
-          "image_value": "🍬"
         },
         {
           "word": "Gun",
@@ -1322,12 +845,6 @@
           "image_value": "🆘"
         },
         {
-          "word": "Hen",
-          "value": "암탉",
-          "image_type": "emoji",
-          "image_value": "🐔"
-        },
-        {
           "word": "Here",
           "value": "여기",
           "image_type": "emoji",
@@ -1351,24 +868,14 @@
           "image_type": "emoji",
           "image_value": "🌄"
         },
-        {
-          "word": "Hip",
-          "value": "엉덩이",
-          "image_type": "emoji",
-          "image_value": "🦵"
-        },
+        
         {
           "word": "Hit",
           "value": "치다",
           "image_type": "emoji",
           "image_value": "👊"
         },
-        {
-          "word": "Hive",
-          "value": "벌집",
-          "image_type": "emoji",
-          "image_value": "🍯"
-        },
+        
         {
           "word": "Hole",
           "value": "구멍",
@@ -1381,18 +888,7 @@
           "image_type": "emoji",
           "image_value": "🏡"
         },
-        {
-          "word": "Hop",
-          "value": "뛰다",
-          "image_type": "emoji",
-          "image_value": "🐰"
-        },
-        {
-          "word": "Horn",
-          "value": "뿔",
-          "image_type": "emoji",
-          "image_value": "📯"
-        },
+        
         {
           "word": "Hot",
           "value": "뜨거운",
@@ -1404,54 +900,6 @@
           "value": "시간",
           "image_type": "emoji",
           "image_value": "🕐"
-        },
-        {
-          "word": "How",
-          "value": "어떻게",
-          "image_type": "emoji",
-          "image_value": "❓"
-        },
-        {
-          "word": "Hug",
-          "value": "안아주다",
-          "image_type": "emoji",
-          "image_value": "🤗"
-        },
-        {
-          "word": "Huge",
-          "value": "거대한",
-          "image_type": "emoji",
-          "image_value": "🌍"
-        },
-        {
-          "word": "Hum",
-          "value": "흥얼거리다",
-          "image_type": "emoji",
-          "image_value": "🎵"
-        },
-        {
-          "word": "Hunt",
-          "value": "사냥하다",
-          "image_type": "emoji",
-          "image_value": "🎯"
-        },
-        {
-          "word": "Hurt",
-          "value": "아프다",
-          "image_type": "emoji",
-          "image_value": "😢"
-        },
-        {
-          "word": "Hut",
-          "value": "오두막",
-          "image_type": "emoji",
-          "image_value": "🛖"
-        },
-        {
-          "word": "Hymn",
-          "value": "찬송가",
-          "image_type": "emoji",
-          "image_value": "📜"
         }
       ]
     },
@@ -1472,12 +920,7 @@
           "image_type": "emoji",
           "image_value": "🍦"
         },
-        {
-          "word": "Igloo",
-          "value": "이글루",
-          "image_type": "emoji",
-          "image_value": "🏠"
-        },
+        
         {
           "word": "Island",
           "value": "섬",
@@ -1496,48 +939,14 @@
           "image_type": "emoji",
           "image_value": "👤"
         },
-        {
-          "word": "Ice",
-          "value": "얼음",
-          "image_type": "emoji",
-          "image_value": "❄️"
-        },
+        
         {
           "word": "Idea",
           "value": "아이디어",
           "image_type": "emoji",
           "image_value": "💡"
         },
-        {
-          "word": "If",
-          "value": "만약",
-          "image_type": "emoji",
-          "image_value": "🤔"
-        },
-        {
-          "word": "Ill",
-          "value": "아픈",
-          "image_type": "emoji",
-          "image_value": "🤒"
-        },
-        {
-          "word": "In",
-          "value": "안에",
-          "image_type": "emoji",
-          "image_value": "📥"
-        },
-        {
-          "word": "Ink",
-          "value": "잉크",
-          "image_type": "emoji",
-          "image_value": "🖋️"
-        },
-        {
-          "word": "Into",
-          "value": "안으로",
-          "image_type": "emoji",
-          "image_value": "➡️"
-        },
+        
         {
           "word": "Iron",
           "value": "다리미",
@@ -1574,53 +983,12 @@
           "image_type": "emoji",
           "image_value": "⭐"
         },
-        {
-          "word": "Ideal",
-          "value": "이상적인",
-          "image_type": "emoji",
-          "image_value": "✨"
-        },
-        {
-          "word": "Idle",
-          "value": "한가한",
-          "image_type": "emoji",
-          "image_value": "😴"
-        },
-        {
-          "word": "Idol",
-          "value": "아이돌",
-          "image_type": "emoji",
-          "image_value": "🎤"
-        },
+        
         {
           "word": "Image",
           "value": "이미지",
           "image_type": "emoji",
           "image_value": "🖼️"
-        },
-        {
-          "word": "Inch",
-          "value": "인치",
-          "image_type": "emoji",
-          "image_value": "📏"
-        },
-        {
-          "word": "Inside",
-          "value": "안쪽",
-          "image_type": "emoji",
-          "image_value": "📦"
-        },
-        {
-          "word": "Instant",
-          "value": "즉시",
-          "image_type": "emoji",
-          "image_value": "⚡"
-        },
-        {
-          "word": "Instead",
-          "value": "대신에",
-          "image_type": "emoji",
-          "image_value": "🔄"
         }
       ]
     },
@@ -1629,12 +997,6 @@
       "lowercase": "j",
       "name": "제이",
       "words": [
-        {
-          "word": "Jellyfish",
-          "value": "해파리",
-          "image_type": "emoji",
-          "image_value": "🎐"
-        },
         {
           "word": "Juice",
           "value": "주스",
@@ -1666,40 +1028,10 @@
           "image_value": "🫙"
         },
         {
-          "word": "Jaw",
-          "value": "턱",
-          "image_type": "emoji",
-          "image_value": "😬"
-        },
-        {
-          "word": "Jet",
-          "value": "제트기",
-          "image_type": "emoji",
-          "image_value": "✈️"
-        },
-        {
           "word": "Jewel",
           "value": "보석",
           "image_type": "emoji",
           "image_value": "💎"
-        },
-        {
-          "word": "Jig",
-          "value": "지그",
-          "image_type": "emoji",
-          "image_value": "🕺"
-        },
-        {
-          "word": "Jiggle",
-          "value": "흔들리다",
-          "image_type": "emoji",
-          "image_value": "🔄"
-        },
-        {
-          "word": "Jingle",
-          "value": "딸랑딸랑",
-          "image_type": "emoji",
-          "image_value": "🔔"
         },
         {
           "word": "Job",
@@ -1726,52 +1058,16 @@
           "image_value": "😄"
         },
         {
-          "word": "Jolly",
-          "value": "즐거운",
-          "image_type": "emoji",
-          "image_value": "😊"
-        },
-        {
-          "word": "Jot",
-          "value": "빠르게 쓰다",
-          "image_type": "emoji",
-          "image_value": "✏️"
-        },
-        {
           "word": "Joy",
           "value": "기쁨",
           "image_type": "emoji",
           "image_value": "😃"
         },
         {
-          "word": "Judge",
-          "value": "판단하다",
-          "image_type": "emoji",
-          "image_value": "⚖️"
-        },
-        {
           "word": "Jug",
           "value": "주전자",
           "image_type": "emoji",
           "image_value": "🫖"
-        },
-        {
-          "word": "Juggle",
-          "value": "저글링하다",
-          "image_type": "emoji",
-          "image_value": "🎪"
-        },
-        {
-          "word": "Jugular",
-          "value": "목정맥",
-          "image_type": "emoji",
-          "image_value": "🩸"
-        },
-        {
-          "word": "Juice",
-          "value": "주스",
-          "image_type": "emoji",
-          "image_value": "🧃"
         },
         {
           "word": "July",
@@ -1796,12 +1092,6 @@
           "value": "6월",
           "image_type": "emoji",
           "image_value": "🌼"
-        },
-        {
-          "word": "Jungle",
-          "value": "정글",
-          "image_type": "emoji",
-          "image_value": "🌴"
         },
         {
           "word": "Junior",
@@ -1834,24 +1124,14 @@
           "image_type": "emoji",
           "image_value": "👑"
         },
-        {
-          "word": "Kite",
-          "value": "연",
-          "image_type": "emoji",
-          "image_value": "🪁"
-        },
+        
         {
           "word": "Koala",
           "value": "코알라",
           "image_type": "emoji",
           "image_value": "🐨"
         },
-        {
-          "word": "Kit",
-          "value": "키트",
-          "image_type": "emoji",
-          "image_value": "🧰"
-        },
+        
         {
           "word": "Kitchen",
           "value": "부엌",
@@ -1888,30 +1168,7 @@
           "image_type": "emoji",
           "image_value": "💋"
         },
-        {
-          "word": "Kite",
-          "value": "연",
-          "image_type": "emoji",
-          "image_value": "🪁"
-        },
-        {
-          "word": "Kitten",
-          "value": "고양이 새끼",
-          "image_type": "emoji",
-          "image_value": "🐱"
-        },
-        {
-          "word": "Kitchen",
-          "value": "부엌",
-          "image_type": "emoji",
-          "image_value": "🍳"
-        },
-        {
-          "word": "Knee",
-          "value": "무릎",
-          "image_type": "emoji",
-          "image_value": "🦵"
-        },
+        
         {
           "word": "Knob",
           "value": "손잡이",
@@ -1935,60 +1192,6 @@
           "value": "유지하다",
           "image_type": "emoji",
           "image_value": "🤲"
-        },
-        {
-          "word": "Keen",
-          "value": "예리한",
-          "image_type": "emoji",
-          "image_value": "👀"
-        },
-        {
-          "word": "Kelp",
-          "value": "다시마",
-          "image_type": "emoji",
-          "image_value": "🌿"
-        },
-        {
-          "word": "Kettle",
-          "value": "주전자",
-          "image_type": "emoji",
-          "image_value": "🫖"
-        },
-        {
-          "word": "Kick",
-          "value": "차다",
-          "image_type": "emoji",
-          "image_value": "⚽"
-        },
-        {
-          "word": "Kilt",
-          "value": "킬트",
-          "image_type": "emoji",
-          "image_value": "👗"
-        },
-        {
-          "word": "Kin",
-          "value": "친척",
-          "image_type": "emoji",
-          "image_value": "👨‍👩‍👧‍👦"
-        },
-        {
-          "word": "King",
-          "value": "왕",
-          "image_type": "emoji",
-          "image_value": "👑"
-        },
-        {
-          "word": "Kiosk",
-          "value": "키오스크",
-          "image_type": "emoji",
-          "image_value": "🏪"
-        },
-        {
-          "word": "Kit",
-          "value": "키트",
-          "image_type": "emoji",
-          "image_value": "🧰"
         }
       ]
     },
@@ -2076,12 +1279,6 @@
           "image_value": "🐑"
         },
         {
-          "word": "Lane",
-          "value": "차선",
-          "image_type": "emoji",
-          "image_value": "🛣️"
-        },
-        {
           "word": "Last",
           "value": "마지막",
           "image_type": "emoji",
@@ -2098,18 +1295,6 @@
           "value": "웃다",
           "image_type": "emoji",
           "image_value": "😄"
-        },
-        {
-          "word": "Law",
-          "value": "법",
-          "image_type": "emoji",
-          "image_value": "⚖️"
-        },
-        {
-          "word": "Lay",
-          "value": "누이다",
-          "image_type": "emoji",
-          "image_value": "🛏️"
         },
         {
           "word": "Lazy",
@@ -2142,28 +1327,10 @@
           "image_value": "🦵"
         },
         {
-          "word": "Let",
-          "value": "허락하다",
-          "image_type": "emoji",
-          "image_value": "✅"
-        },
-        {
           "word": "Letter",
           "value": "편지",
           "image_type": "emoji",
           "image_value": "✉️"
-        },
-        {
-          "word": "Lick",
-          "value": "핥다",
-          "image_type": "emoji",
-          "image_value": "👅"
-        },
-        {
-          "word": "Lid",
-          "value": "뚜껑",
-          "image_type": "emoji",
-          "image_value": "🪣"
         },
         {
           "word": "Lie",
@@ -2233,22 +1400,10 @@
           "image_value": "👨"
         },
         {
-          "word": "Mat",
-          "value": "매트",
-          "image_type": "emoji",
-          "image_value": "🏃"
-        },
-        {
           "word": "May",
           "value": "5월",
           "image_type": "emoji",
           "image_value": "🌸"
-        },
-        {
-          "word": "Me",
-          "value": "나를",
-          "image_type": "emoji",
-          "image_value": "👤"
         },
         {
           "word": "Meat",
@@ -2261,12 +1416,6 @@
           "value": "만나다",
           "image_type": "emoji",
           "image_value": "🤝"
-        },
-        {
-          "word": "Melt",
-          "value": "녹다",
-          "image_type": "emoji",
-          "image_value": "🫠"
         },
         {
           "word": "Men",
@@ -2293,76 +1442,16 @@
           "image_value": "🔄"
         },
         {
-          "word": "Mode",
-          "value": "모드",
-          "image_type": "emoji",
-          "image_value": "⚙️"
-        },
-        {
           "word": "Mom",
           "value": "엄마",
           "image_type": "emoji",
           "image_value": "👩"
         },
         {
-          "word": "Mop",
-          "value": "대걸레",
-          "image_type": "emoji",
-          "image_value": "🧹"
-        },
-        {
-          "word": "More",
-          "value": "더",
-          "image_type": "emoji",
-          "image_value": "➕"
-        },
-        {
-          "word": "Most",
-          "value": "대부분",
-          "image_type": "emoji",
-          "image_value": "🔝"
-        },
-        {
-          "word": "Move",
-          "value": "움직이다",
-          "image_type": "emoji",
-          "image_value": "🚶"
-        },
-        {
-          "word": "Much",
-          "value": "많은",
-          "image_type": "emoji",
-          "image_value": "📊"
-        },
-        {
           "word": "Mud",
           "value": "진흙",
           "image_type": "emoji",
           "image_value": "🟤"
-        },
-        {
-          "word": "Mug",
-          "value": "머그컵",
-          "image_type": "emoji",
-          "image_value": "☕"
-        },
-        {
-          "word": "Mule",
-          "value": "노새",
-          "image_type": "emoji",
-          "image_value": "🫏"
-        },
-        {
-          "word": "Must",
-          "value": "해야 한다",
-          "image_type": "emoji",
-          "image_value": "✅"
-        },
-        {
-          "word": "My",
-          "value": "내",
-          "image_type": "emoji",
-          "image_value": "👤"
         }
       ]
     },
@@ -2371,12 +1460,6 @@
       "lowercase": "n",
       "name": "엔",
       "words": [
-        {
-          "word": "Nest",
-          "value": "둥지",
-          "image_type": "emoji",
-          "image_value": "🪺"
-        },
         {
           "word": "Nose",
           "value": "코",
@@ -2408,22 +1491,10 @@
           "image_value": "❌"
         },
         {
-          "word": "Not",
-          "value": "아니다",
-          "image_type": "emoji",
-          "image_value": "🚫"
-        },
-        {
           "word": "Now",
           "value": "지금",
           "image_type": "emoji",
           "image_value": "⏰"
-        },
-        {
-          "word": "New",
-          "value": "새로운",
-          "image_type": "emoji",
-          "image_value": "🆕"
         },
         {
           "word": "Nice",
@@ -2438,64 +1509,10 @@
           "image_value": "🏷️"
         },
         {
-          "word": "Nap",
-          "value": "낮잠",
-          "image_type": "emoji",
-          "image_value": "😴"
-        },
-        {
           "word": "Nail",
           "value": "손톱",
           "image_type": "emoji",
           "image_value": "💅"
-        },
-        {
-          "word": "Near",
-          "value": "가까운",
-          "image_type": "emoji",
-          "image_value": "📍"
-        },
-        {
-          "word": "Neat",
-          "value": "깔끔한",
-          "image_type": "emoji",
-          "image_value": "✨"
-        },
-        {
-          "word": "Neck",
-          "value": "목",
-          "image_type": "emoji",
-          "image_value": "👔"
-        },
-        {
-          "word": "Need",
-          "value": "필요하다",
-          "image_type": "emoji",
-          "image_value": "❗"
-        },
-        {
-          "word": "Neon",
-          "value": "네온",
-          "image_type": "emoji",
-          "image_value": "💡"
-        },
-        {
-          "word": "Nephew",
-          "value": "조카",
-          "image_type": "emoji",
-          "image_value": "👶"
-        },
-        {
-          "word": "Next",
-          "value": "다음",
-          "image_type": "emoji",
-          "image_value": "➡️"
-        },
-        {
-          "word": "Nibble",
-          "value": "조금씩 먹다",
-          "image_type": "emoji",
-          "image_value": "🍪"
         },
         {
           "word": "Nice",
@@ -2509,12 +1526,7 @@
           "image_type": "emoji",
           "image_value": "🩹"
         },
-        {
-          "word": "Niece",
-          "value": "조카딸",
-          "image_type": "emoji",
-          "image_value": "👧"
-        },
+        
         {
           "word": "Nine",
           "value": "9",
@@ -2526,30 +1538,6 @@
           "value": "꼬집다",
           "image_type": "emoji",
           "image_value": "🤏"
-        },
-        {
-          "word": "Nod",
-          "value": "고개를 끄덕이다",
-          "image_type": "emoji",
-          "image_value": "👍"
-        },
-        {
-          "word": "None",
-          "value": "아무것도",
-          "image_type": "emoji",
-          "image_value": "🚫"
-        },
-        {
-          "word": "Nook",
-          "value": "구석",
-          "image_type": "emoji",
-          "image_value": "📚"
-        },
-        {
-          "word": "Noon",
-          "value": "정오",
-          "image_type": "emoji",
-          "image_value": "☀️"
         }
       ]
     },
@@ -2589,24 +1577,6 @@
           "image_value": "🧅"
         },
         {
-          "word": "Of",
-          "value": "~의",
-          "image_type": "emoji",
-          "image_value": "👈"
-        },
-        {
-          "word": "Off",
-          "value": "꺼진",
-          "image_type": "emoji",
-          "image_value": "🔴"
-        },
-        {
-          "word": "Oh",
-          "value": "오",
-          "image_type": "emoji",
-          "image_value": "😲"
-        },
-        {
           "word": "Oil",
           "value": "기름",
           "image_type": "emoji",
@@ -2625,118 +1595,16 @@
           "image_value": "👴"
         },
         {
-          "word": "On",
-          "value": "위에",
-          "image_type": "emoji",
-          "image_value": "⬆️"
-        },
-        {
-          "word": "Once",
-          "value": "한 번",
-          "image_type": "emoji",
-          "image_value": "1️⃣"
-        },
-        {
           "word": "One",
           "value": "하나",
           "image_type": "emoji",
           "image_value": "1️⃣"
         },
         {
-          "word": "Only",
-          "value": "오직",
-          "image_type": "emoji",
-          "image_value": "👆"
-        },
-        {
-          "word": "Onto",
-          "value": "위로",
-          "image_type": "emoji",
-          "image_value": "⬆️"
-        },
-        {
-          "word": "Open",
-          "value": "열다",
-          "image_type": "emoji",
-          "image_value": "📖"
-        },
-        {
-          "word": "Or",
-          "value": "또는",
-          "image_type": "emoji",
-          "image_value": "↔️"
-        },
-        {
-          "word": "Order",
-          "value": "순서",
-          "image_type": "emoji",
-          "image_value": "🔢"
-        },
-        {
           "word": "Out",
           "value": "밖으로",
           "image_type": "emoji",
           "image_value": "🚪"
-        },
-        {
-          "word": "Oval",
-          "value": "타원형",
-          "image_type": "emoji",
-          "image_value": "🥚"
-        },
-        {
-          "word": "Over",
-          "value": "위에",
-          "image_type": "emoji",
-          "image_value": "☁️"
-        },
-        {
-          "word": "Owe",
-          "value": "빚지다",
-          "image_type": "emoji",
-          "image_value": "💰"
-        },
-        {
-          "word": "Owl",
-          "value": "올빼미",
-          "image_type": "emoji",
-          "image_value": "🦉"
-        },
-        {
-          "word": "Own",
-          "value": "자신의",
-          "image_type": "emoji",
-          "image_value": "👤"
-        },
-        {
-          "word": "Ox",
-          "value": "소",
-          "image_type": "emoji",
-          "image_value": "🐂"
-        },
-        {
-          "word": "Oat",
-          "value": "귀리",
-          "image_type": "emoji",
-          "image_value": "🌾"
-        },
-        {
-          "word": "Oath",
-          "value": "맹세",
-          "image_type": "emoji",
-          "image_value": "✋"
-        },
-        {
-          "word": "Oats",
-          "value": "오트밀",
-          "image_type": "emoji",
-          "image_value": "🥣"
-        },
-        {
-          "word": "Oboe",
-          "value": "오보에",
-          "image_type": "emoji",
-          "image_value": "🎵"
         }
       ]
     },
@@ -2788,40 +1656,10 @@
           "image_value": "🌳"
         },
         {
-          "word": "Pen",
-          "value": "펜",
-          "image_type": "emoji",
-          "image_value": "✍️"
-        },
-        {
-          "word": "Pan",
-          "value": "팬",
-          "image_type": "emoji",
-          "image_value": "🍳"
-        },
-        {
-          "word": "Pat",
-          "value": "토닥이다",
-          "image_type": "emoji",
-          "image_value": "👋"
-        },
-        {
           "word": "Path",
           "value": "길",
           "image_type": "emoji",
           "image_value": "🛤️"
-        },
-        {
-          "word": "Pay",
-          "value": "지불하다",
-          "image_type": "emoji",
-          "image_value": "💰"
-        },
-        {
-          "word": "Pea",
-          "value": "완두콩",
-          "image_type": "emoji",
-          "image_value": "🫛"
         },
         {
           "word": "Peak",
@@ -2834,36 +1672,6 @@
           "value": "울림",
           "image_type": "emoji",
           "image_value": "🔔"
-        },
-        {
-          "word": "Pear",
-          "value": "배",
-          "image_type": "emoji",
-          "image_value": "🍐"
-        },
-        {
-          "word": "Peck",
-          "value": "쪼다",
-          "image_type": "emoji",
-          "image_value": "🐦"
-        },
-        {
-          "word": "Peel",
-          "value": "껍질",
-          "image_type": "emoji",
-          "image_value": "🍌"
-        },
-        {
-          "word": "Peep",
-          "value": "엿보다",
-          "image_type": "emoji",
-          "image_value": "👁️"
-        },
-        {
-          "word": "Peer",
-          "value": "동료",
-          "image_type": "emoji",
-          "image_value": "👥"
         },
         {
           "word": "Peg",
@@ -2882,48 +1690,6 @@
           "value": "애완동물",
           "image_type": "emoji",
           "image_value": "🐾"
-        },
-        {
-          "word": "Pew",
-          "value": "벤치",
-          "image_type": "emoji",
-          "image_value": "💺"
-        },
-        {
-          "word": "Pie",
-          "value": "파이",
-          "image_type": "emoji",
-          "image_value": "🥧"
-        },
-        {
-          "word": "Pig",
-          "value": "돼지",
-          "image_type": "emoji",
-          "image_value": "🐷"
-        },
-        {
-          "word": "Pin",
-          "value": "핀",
-          "image_type": "emoji",
-          "image_value": "📌"
-        },
-        {
-          "word": "Pit",
-          "value": "구덩이",
-          "image_type": "emoji",
-          "image_value": "🕳️"
-        },
-        {
-          "word": "Pod",
-          "value": "꼬투리",
-          "image_type": "emoji",
-          "image_value": "🫘"
-        },
-        {
-          "word": "Pop",
-          "value": "팝",
-          "image_type": "emoji",
-          "image_value": "🎵"
         }
       ]
     },
@@ -2938,18 +1704,7 @@
           "image_type": "emoji",
           "image_value": "👸"
         },
-        {
-          "word": "Quilt",
-          "value": "이불",
-          "image_type": "emoji",
-          "image_value": "🛏️"
-        },
-        {
-          "word": "Quack",
-          "value": "꽥꽥",
-          "image_type": "emoji",
-          "image_value": "🦆"
-        },
+        
         {
           "word": "Question",
           "value": "질문",
@@ -2963,23 +1718,12 @@
           "image_value": "🤫"
         },
         {
-          "word": "Quail",
-          "value": "메추라기",
-          "image_type": "emoji",
-          "image_value": "🐦"
-        },
-        {
           "word": "Quake",
           "value": "지진",
           "image_type": "emoji",
           "image_value": "🌍"
         },
-        {
-          "word": "Qualify",
-          "value": "자격을 얻다",
-          "image_type": "emoji",
-          "image_value": "✅"
-        },
+        
         {
           "word": "Quality",
           "value": "품질",
@@ -3005,60 +1749,6 @@
           "image_value": "⛏️"
         },
         {
-          "word": "Quarter",
-          "value": "사분의 일",
-          "image_type": "emoji",
-          "image_value": "¼"
-        },
-        {
-          "word": "Quartet",
-          "value": "4중주",
-          "image_type": "emoji",
-          "image_value": "🎼"
-        },
-        {
-          "word": "Quash",
-          "value": "진압하다",
-          "image_type": "emoji",
-          "image_value": "🛑"
-        },
-        {
-          "word": "Quaver",
-          "value": "떨리다",
-          "image_type": "emoji",
-          "image_value": "🎵"
-        },
-        {
-          "word": "Quay",
-          "value": "부두",
-          "image_type": "emoji",
-          "image_value": "⚓"
-        },
-        {
-          "word": "Queasy",
-          "value": "멀미나는",
-          "image_type": "emoji",
-          "image_value": "🤢"
-        },
-        {
-          "word": "Queer",
-          "value": "이상한",
-          "image_type": "emoji",
-          "image_value": "🤔"
-        },
-        {
-          "word": "Quell",
-          "value": "진압하다",
-          "image_type": "emoji",
-          "image_value": "🛡️"
-        },
-        {
-          "word": "Quench",
-          "value": "끄다",
-          "image_type": "emoji",
-          "image_value": "💧"
-        },
-        {
           "word": "Query",
           "value": "질문",
           "image_type": "emoji",
@@ -3066,7 +1756,7 @@
         },
         {
           "word": "Quest",
-          "value": "탐험",
+          "value": "탐색",
           "image_type": "emoji",
           "image_value": "🗺️"
         },
@@ -3081,36 +1771,6 @@
           "value": "빠른",
           "image_type": "emoji",
           "image_value": "⚡"
-        },
-        {
-          "word": "Quid",
-          "value": "궐련",
-          "image_type": "emoji",
-          "image_value": "🚬"
-        },
-        {
-          "word": "Quill",
-          "value": "깃펜",
-          "image_type": "emoji",
-          "image_value": "🪶"
-        },
-        {
-          "word": "Quilt",
-          "value": "누비이불",
-          "image_type": "emoji",
-          "image_value": "🛏️"
-        },
-        {
-          "word": "Quip",
-          "value": "재치있는 말",
-          "image_type": "emoji",
-          "image_value": "💬"
-        },
-        {
-          "word": "Quire",
-          "value": "한 묶음",
-          "image_type": "emoji",
-          "image_value": "📄"
         }
       ]
     },
@@ -3174,72 +1834,6 @@
           "image_value": "🐏"
         },
         {
-          "word": "Rap",
-          "value": "탁 치다",
-          "image_type": "emoji",
-          "image_value": "👋"
-        },
-        {
-          "word": "Rap",
-          "value": "랩",
-          "image_type": "emoji",
-          "image_value": "🎤"
-        },
-        {
-          "word": "Rare",
-          "value": "드문",
-          "image_type": "emoji",
-          "image_value": "💎"
-        },
-        {
-          "word": "Rash",
-          "value": "발진",
-          "image_type": "emoji",
-          "image_value": "🔴"
-        },
-        {
-          "word": "Rat",
-          "value": "쥐",
-          "image_type": "emoji",
-          "image_value": "🐭"
-        },
-        {
-          "word": "Rave",
-          "value": "광란",
-          "image_type": "emoji",
-          "image_value": "🎉"
-        },
-        {
-          "word": "Raw",
-          "value": "날것의",
-          "image_type": "emoji",
-          "image_value": "🥩"
-        },
-        {
-          "word": "Ray",
-          "value": "광선",
-          "image_type": "emoji",
-          "image_value": "☀️"
-        },
-        {
-          "word": "Raze",
-          "value": "파괴하다",
-          "image_type": "emoji",
-          "image_value": "💥"
-        },
-        {
-          "word": "Razor",
-          "value": "면도기",
-          "image_type": "emoji",
-          "image_value": "🪒"
-        },
-        {
-          "word": "Reach",
-          "value": "도달하다",
-          "image_type": "emoji",
-          "image_value": "🤲"
-        },
-        {
           "word": "Read",
           "value": "읽다",
           "image_type": "emoji",
@@ -3252,52 +1846,16 @@
           "image_value": "✅"
         },
         {
-          "word": "Rear",
-          "value": "뒤",
-          "image_type": "emoji",
-          "image_value": "🔙"
-        },
-        {
-          "word": "Reel",
-          "value": "릴",
-          "image_type": "emoji",
-          "image_value": "🎣"
-        },
-        {
           "word": "Reef",
           "value": "암초",
           "image_type": "emoji",
           "image_value": "🌊"
         },
         {
-          "word": "Reek",
-          "value": "악취",
-          "image_type": "emoji",
-          "image_value": "👃"
-        },
-        {
-          "word": "Reel",
-          "value": "비틀거리다",
-          "image_type": "emoji",
-          "image_value": "🌀"
-        },
-        {
           "word": "Ref",
           "value": "심판",
           "image_type": "emoji",
           "image_value": "⚖️"
-        },
-        {
-          "word": "Regal",
-          "value": "왕의",
-          "image_type": "emoji",
-          "image_value": "👑"
-        },
-        {
-          "word": "Reign",
-          "value": "통치",
-          "image_type": "emoji",
-          "image_value": "👑"
         }
       ]
     },
@@ -3379,18 +1937,6 @@
           "image_value": "🛡️"
         },
         {
-          "word": "Sage",
-          "value": "현자",
-          "image_type": "emoji",
-          "image_value": "🧙"
-        },
-        {
-          "word": "Sail",
-          "value": "항해하다",
-          "image_type": "emoji",
-          "image_value": "⛵"
-        },
-        {
           "word": "Sale",
           "value": "판매",
           "image_type": "emoji",
@@ -3415,76 +1961,10 @@
           "image_value": "🏖️"
         },
         {
-          "word": "Sang",
-          "value": "노래했다",
-          "image_type": "emoji",
-          "image_value": "🎵"
-        },
-        {
-          "word": "Sank",
-          "value": "가라앉았다",
-          "image_type": "emoji",
-          "image_value": "🌊"
-        },
-        {
-          "word": "Sap",
-          "value": "수액",
-          "image_type": "emoji",
-          "image_value": "🌿"
-        },
-        {
-          "word": "Sash",
-          "value": "띠",
-          "image_type": "emoji",
-          "image_value": "🎗️"
-        },
-        {
-          "word": "Sat",
-          "value": "앉았다",
-          "image_type": "emoji",
-          "image_value": "🪑"
-        },
-        {
-          "word": "Saw",
-          "value": "보았다",
-          "image_type": "emoji",
-          "image_value": "👁️"
-        },
-        {
-          "word": "Saw",
-          "value": "톱",
-          "image_type": "emoji",
-          "image_value": "🪚"
-        },
-        {
-          "word": "Sax",
-          "value": "색소폰",
-          "image_type": "emoji",
-          "image_value": "🎷"
-        },
-        {
-          "word": "Say",
-          "value": "말하다",
-          "image_type": "emoji",
-          "image_value": "💬"
-        },
-        {
           "word": "Sea",
           "value": "바다",
           "image_type": "emoji",
           "image_value": "🌊"
-        },
-        {
-          "word": "Seal",
-          "value": "물개",
-          "image_type": "emoji",
-          "image_value": "🦭"
-        },
-        {
-          "word": "Seam",
-          "value": "봉합선",
-          "image_type": "emoji",
-          "image_value": "🧵"
         }
       ]
     },
@@ -3523,59 +2003,12 @@
           "image_type": "emoji",
           "image_value": "🐢"
         },
-        {
-          "word": "The",
-          "value": "그",
-          "image_type": "emoji",
-          "image_value": "👈"
-        },
-        {
-          "word": "To",
-          "value": "~에게",
-          "image_type": "emoji",
-          "image_value": "➡️"
-        },
-        {
-          "word": "Too",
-          "value": "또한",
-          "image_type": "emoji",
-          "image_value": "➕"
-        },
+        
         {
           "word": "Two",
           "value": "2",
           "image_type": "emoji",
           "image_value": "2️⃣"
-        },
-        {
-          "word": "Tag",
-          "value": "태그",
-          "image_type": "emoji",
-          "image_value": "🏷️"
-        },
-        {
-          "word": "Tan",
-          "value": "황갈색",
-          "image_type": "emoji",
-          "image_value": "🟤"
-        },
-        {
-          "word": "Tap",
-          "value": "두드리다",
-          "image_type": "emoji",
-          "image_value": "👆"
-        },
-        {
-          "word": "Tar",
-          "value": "타르",
-          "image_type": "emoji",
-          "image_value": "🛢️"
-        },
-        {
-          "word": "Tat",
-          "value": "싸구려",
-          "image_type": "emoji",
-          "image_value": "💰"
         },
         {
           "word": "Tax",
@@ -3596,88 +2029,16 @@
           "image_value": "🔟"
         },
         {
-          "word": "The",
-          "value": "그",
-          "image_type": "emoji",
-          "image_value": "👈"
-        },
-        {
-          "word": "Tie",
-          "value": "넥타이",
-          "image_type": "emoji",
-          "image_value": "👔"
-        },
-        {
-          "word": "Tin",
-          "value": "주석",
-          "image_type": "emoji",
-          "image_value": "🥫"
-        },
-        {
-          "word": "Tip",
-          "value": "팁",
-          "image_type": "emoji",
-          "image_value": "💡"
-        },
-        {
-          "word": "Tit",
-          "value": "동가리",
-          "image_type": "emoji",
-          "image_value": "🐦"
-        },
-        {
-          "word": "To",
-          "value": "~에게",
-          "image_type": "emoji",
-          "image_value": "➡️"
-        },
-        {
-          "word": "Tod",
-          "value": "여우",
-          "image_type": "emoji",
-          "image_value": "🦊"
-        },
-        {
           "word": "Toe",
           "value": "발가락",
           "image_type": "emoji",
           "image_value": "🦶"
         },
         {
-          "word": "Tog",
-          "value": "옷",
-          "image_type": "emoji",
-          "image_value": "👕"
-        },
-        {
-          "word": "Tom",
-          "value": "수컷",
-          "image_type": "emoji",
-          "image_value": "🐱"
-        },
-        {
-          "word": "Ton",
-          "value": "톤",
-          "image_type": "emoji",
-          "image_value": "⚖️"
-        },
-        {
-          "word": "Too",
-          "value": "너무",
-          "image_type": "emoji",
-          "image_value": "⚠️"
-        },
-        {
           "word": "Top",
           "value": "꼭대기",
           "image_type": "emoji",
           "image_value": "🔝"
-        },
-        {
-          "word": "Tor",
-          "value": "바위산",
-          "image_type": "emoji",
-          "image_value": "⛰️"
         }
       ]
     },
@@ -3710,42 +2071,21 @@
           "image_type": "emoji",
           "image_value": "⬇️"
         },
-        {
-          "word": "Us",
-          "value": "우리",
-          "image_type": "emoji",
-          "image_value": "👥"
-        },
+        
         {
           "word": "Use",
           "value": "사용하다",
           "image_type": "emoji",
           "image_value": "🔧"
         },
-        {
-          "word": "Uber",
-          "value": "우버",
-          "image_type": "emoji",
-          "image_value": "🚗"
-        },
+        
         {
           "word": "Ugly",
           "value": "못생긴",
           "image_type": "emoji",
           "image_value": "😞"
         },
-        {
-          "word": "Ulcer",
-          "value": "궤양",
-          "image_type": "emoji",
-          "image_value": "🩹"
-        },
-        {
-          "word": "Ultra",
-          "value": "초",
-          "image_type": "emoji",
-          "image_value": "⚡"
-        },
+        
         {
           "word": "Umbra",
           "value": "그림자",
@@ -3765,24 +2105,6 @@
           "image_value": "↩️"
         },
         {
-          "word": "Unfit",
-          "value": "부적합한",
-          "image_type": "emoji",
-          "image_value": "❌"
-        },
-        {
-          "word": "Unify",
-          "value": "통합하다",
-          "image_type": "emoji",
-          "image_value": "🔗"
-        },
-        {
-          "word": "Union",
-          "value": "연합",
-          "image_type": "emoji",
-          "image_value": "🤝"
-        },
-        {
           "word": "Unit",
           "value": "단위",
           "image_type": "emoji",
@@ -3793,72 +2115,6 @@
           "value": "통일",
           "image_type": "emoji",
           "image_value": "🌍"
-        },
-        {
-          "word": "Unleash",
-          "value": "풀어놓다",
-          "image_type": "emoji",
-          "image_value": "🔓"
-        },
-        {
-          "word": "Until",
-          "value": "~까지",
-          "image_type": "emoji",
-          "image_value": "⏰"
-        },
-        {
-          "word": "Untie",
-          "value": "풀다",
-          "image_type": "emoji",
-          "image_value": "🔓"
-        },
-        {
-          "word": "Unto",
-          "value": "~에게",
-          "image_type": "emoji",
-          "image_value": "➡️"
-        },
-        {
-          "word": "Untold",
-          "value": "말로 못할",
-          "image_type": "emoji",
-          "image_value": "🤐"
-        },
-        {
-          "word": "Unused",
-          "value": "사용하지 않은",
-          "image_type": "emoji",
-          "image_value": "📦"
-        },
-        {
-          "word": "Unveil",
-          "value": "공개하다",
-          "image_type": "emoji",
-          "image_value": "👁️"
-        },
-        {
-          "word": "Unzip",
-          "value": "지퍼를 열다",
-          "image_type": "emoji",
-          "image_value": "🤐"
-        },
-        {
-          "word": "Upon",
-          "value": "~위에",
-          "image_type": "emoji",
-          "image_value": "⬆️"
-        },
-        {
-          "word": "Upper",
-          "value": "위쪽",
-          "image_type": "emoji",
-          "image_value": "☁️"
-        },
-        {
-          "word": "Upset",
-          "value": "화난",
-          "image_type": "emoji",
-          "image_value": "😠"
         }
       ]
     },
@@ -3874,52 +2130,10 @@
           "image_value": "🎻"
         },
         {
-          "word": "Vase",
-          "value": "꽃병",
-          "image_type": "emoji",
-          "image_value": "🏺"
-        },
-        {
-          "word": "Vase",
-          "value": "꽃병",
-          "image_type": "emoji",
-          "image_value": "🏺"
-        },
-        {
           "word": "Volcano",
           "value": "화산",
           "image_type": "emoji",
           "image_value": "🌋"
-        },
-        {
-          "word": "Van",
-          "value": "밴",
-          "image_type": "emoji",
-          "image_value": "🚐"
-        },
-        {
-          "word": "Vac",
-          "value": "진공청소기",
-          "image_type": "emoji",
-          "image_value": "🧹"
-        },
-        {
-          "word": "Vain",
-          "value": "허영심 많은",
-          "image_type": "emoji",
-          "image_value": "🪞"
-        },
-        {
-          "word": "Vale",
-          "value": "계곡",
-          "image_type": "emoji",
-          "image_value": "🏔️"
-        },
-        {
-          "word": "Valet",
-          "value": "발렛",
-          "image_type": "emoji",
-          "image_value": "🚗"
         },
         {
           "word": "Valley",
@@ -3934,96 +2148,6 @@
           "image_value": "💎"
         },
         {
-          "word": "Valve",
-          "value": "밸브",
-          "image_type": "emoji",
-          "image_value": "🔧"
-        },
-        {
-          "word": "Vamp",
-          "value": "밴드",
-          "image_type": "emoji",
-          "image_value": "👠"
-        },
-        {
-          "word": "Vane",
-          "value": "날개",
-          "image_type": "emoji",
-          "image_value": "🌀"
-        },
-        {
-          "word": "Vang",
-          "value": "밴",
-          "image_type": "emoji",
-          "image_value": "⛵"
-        },
-        {
-          "word": "Vary",
-          "value": "변화하다",
-          "image_type": "emoji",
-          "image_value": "🔄"
-        },
-        {
-          "word": "Vase",
-          "value": "화분",
-          "image_type": "emoji",
-          "image_value": "🏺"
-        },
-        {
-          "word": "Vast",
-          "value": "넓은",
-          "image_type": "emoji",
-          "image_value": "🌍"
-        },
-        {
-          "word": "Vat",
-          "value": "큰 통",
-          "image_type": "emoji",
-          "image_value": "🪣"
-        },
-        {
-          "word": "Vault",
-          "value": "금고",
-          "image_type": "emoji",
-          "image_value": "🏦"
-        },
-        {
-          "word": "Veal",
-          "value": "송아지 고기",
-          "image_type": "emoji",
-          "image_value": "🥩"
-        },
-        {
-          "word": "Veer",
-          "value": "방향을 바꾸다",
-          "image_type": "emoji",
-          "image_value": "🔄"
-        },
-        {
-          "word": "Veil",
-          "value": "베일",
-          "image_type": "emoji",
-          "image_value": "👰"
-        },
-        {
-          "word": "Vein",
-          "value": "정맥",
-          "image_type": "emoji",
-          "image_value": "🩸"
-        },
-        {
-          "word": "Veld",
-          "value": "사바나",
-          "image_type": "emoji",
-          "image_value": "🌾"
-        },
-        {
-          "word": "Vend",
-          "value": "팔다",
-          "image_type": "emoji",
-          "image_value": "💰"
-        },
-        {
           "word": "Venom",
           "value": "독",
           "image_type": "emoji",
@@ -4034,18 +2158,6 @@
           "value": "환기구",
           "image_type": "emoji",
           "image_value": "💨"
-        },
-        {
-          "word": "Verb",
-          "value": "동사",
-          "image_type": "emoji",
-          "image_value": "📝"
-        },
-        {
-          "word": "Verdict",
-          "value": "판결",
-          "image_type": "emoji",
-          "image_value": "⚖️"
         }
       ]
     },
@@ -4090,24 +2202,7 @@
           "image_type": "emoji",
           "image_value": "👥"
         },
-        {
-          "word": "Wag",
-          "value": "흔들다",
-          "image_type": "emoji",
-          "image_value": "🐕"
-        },
-        {
-          "word": "Wage",
-          "value": "임금",
-          "image_type": "emoji",
-          "image_value": "💰"
-        },
-        {
-          "word": "Wail",
-          "value": "울부짖다",
-          "image_type": "emoji",
-          "image_value": "😭"
-        },
+        
         {
           "word": "Wait",
           "value": "기다리다",
@@ -4133,18 +2228,6 @@
           "image_value": "🧱"
         },
         {
-          "word": "Wan",
-          "value": "창백한",
-          "image_type": "emoji",
-          "image_value": "😰"
-        },
-        {
-          "word": "Wand",
-          "value": "지팡이",
-          "image_type": "emoji",
-          "image_value": "🪄"
-        },
-        {
           "word": "Want",
           "value": "원하다",
           "image_type": "emoji",
@@ -4157,64 +2240,10 @@
           "image_value": "⚔️"
         },
         {
-          "word": "Ward",
-          "value": "병동",
-          "image_type": "emoji",
-          "image_value": "🏥"
-        },
-        {
-          "word": "Ware",
-          "value": "상품",
-          "image_type": "emoji",
-          "image_value": "📦"
-        },
-        {
-          "word": "Warm",
-          "value": "따뜻한",
-          "image_type": "emoji",
-          "image_value": "🔥"
-        },
-        {
-          "word": "Warn",
-          "value": "경고하다",
-          "image_type": "emoji",
-          "image_value": "⚠️"
-        },
-        {
-          "word": "Warp",
-          "value": "휘다",
-          "image_type": "emoji",
-          "image_value": "🌀"
-        },
-        {
-          "word": "Wart",
-          "value": "사마귀",
-          "image_type": "emoji",
-          "image_value": "🔴"
-        },
-        {
-          "word": "Wary",
-          "value": "조심스러운",
-          "image_type": "emoji",
-          "image_value": "👀"
-        },
-        {
           "word": "Wash",
           "value": "씻다",
           "image_type": "emoji",
           "image_value": "🧼"
-        },
-        {
-          "word": "Wasp",
-          "value": "말벌",
-          "image_type": "emoji",
-          "image_value": "🐝"
-        },
-        {
-          "word": "Waste",
-          "value": "낭비",
-          "image_type": "emoji",
-          "image_value": "🗑️"
         },
         {
           "word": "Watch",
@@ -4227,12 +2256,6 @@
           "value": "파도",
           "image_type": "emoji",
           "image_value": "🌊"
-        },
-        {
-          "word": "Wax",
-          "value": "왁스",
-          "image_type": "emoji",
-          "image_value": "🕯️"
         }
       ]
     },
@@ -4242,184 +2265,16 @@
       "name": "엑스",
       "words": [
         {
-          "word": "X-ray",
-          "value": "엑스레이",
-          "image_type": "emoji",
-          "image_value": "🦴"
-        },
-        {
           "word": "Xylophone",
           "value": "실로폰",
           "image_type": "emoji",
           "image_value": "🎹"
         },
         {
-          "word": "Fox",
-          "value": "여우",
+          "word": "X-ray",
+          "value": "엑스레이",
           "image_type": "emoji",
-          "image_value": "🦊"
-        },
-        {
-          "word": "Box",
-          "value": "상자",
-          "image_type": "emoji",
-          "image_value": "📦"
-        },
-        {
-          "word": "Ax",
-          "value": "도끼",
-          "image_type": "emoji",
-          "image_value": "🪓"
-        },
-        {
-          "word": "Fix",
-          "value": "고치다",
-          "image_type": "emoji",
-          "image_value": "🔧"
-        },
-        {
-          "word": "Mix",
-          "value": "섞다",
-          "image_type": "emoji",
-          "image_value": "🔄"
-        },
-        {
-          "word": "Six",
-          "value": "6",
-          "image_type": "emoji",
-          "image_value": "6️⃣"
-        },
-        {
-          "word": "Max",
-          "value": "최대",
-          "image_type": "emoji",
-          "image_value": "⬆️"
-        },
-        {
-          "word": "Tax",
-          "value": "세금",
-          "image_type": "emoji",
-          "image_value": "💸"
-        },
-        {
-          "word": "Wax",
-          "value": "왁스",
-          "image_type": "emoji",
-          "image_value": "🕯️"
-        },
-        {
-          "word": "Ox",
-          "value": "소",
-          "image_type": "emoji",
-          "image_value": "🐂"
-        },
-        {
-          "word": "Lax",
-          "value": "느슨한",
-          "image_type": "emoji",
-          "image_value": "😌"
-        },
-        {
-          "word": "Pox",
-          "value": "천연두",
-          "image_type": "emoji",
-          "image_value": "🩹"
-        },
-        {
-          "word": "Rex",
-          "value": "왕",
-          "image_type": "emoji",
-          "image_value": "👑"
-        },
-        {
-          "word": "Sex",
-          "value": "성별",
-          "image_type": "emoji",
-          "image_value": "👥"
-        },
-        {
-          "word": "Tex",
-          "value": "텍사스",
-          "image_type": "emoji",
-          "image_value": "🤠"
-        },
-        {
-          "word": "Vex",
-          "value": "화나게 하다",
-          "image_type": "emoji",
-          "image_value": "😠"
-        },
-        {
-          "word": "Hex",
-          "value": "주문",
-          "image_type": "emoji",
-          "image_value": "🪄"
-        },
-        {
-          "word": "Lux",
-          "value": "럭스",
-          "image_type": "emoji",
-          "image_value": "💡"
-        },
-        {
-          "word": "Nix",
-          "value": "없음",
-          "image_type": "emoji",
-          "image_value": "❌"
-        },
-        {
-          "word": "Pix",
-          "value": "사진",
-          "image_type": "emoji",
-          "image_value": "📷"
-        },
-        {
-          "word": "Pox",
-          "value": "두창",
-          "image_type": "emoji",
-          "image_value": "🦠"
-        },
-        {
-          "word": "Sax",
-          "value": "색소폰",
-          "image_type": "emoji",
-          "image_value": "🎷"
-        },
-        {
-          "word": "Tux",
-          "value": "턱시도",
-          "image_type": "emoji",
-          "image_value": "🎩"
-        },
-        {
-          "word": "Yex",
-          "value": "딸꾹질",
-          "image_type": "emoji",
-          "image_value": "😵"
-        },
-        {
-          "word": "Zax",
-          "value": "도끼",
-          "image_type": "emoji",
-          "image_value": "🪓"
-        },
-        {
-          "word": "Axe",
-          "value": "도끼",
-          "image_type": "emoji",
-          "image_value": "🪓"
-        },
-        {
-          "word": "Apex",
-          "value": "정점",
-          "image_type": "emoji",
-          "image_value": "🔝"
-        },
-        {
-          "word": "Index",
-          "value": "색인",
-          "image_type": "emoji",
-          "image_value": "📇"
+          "image_value": "🦴"
         }
       ]
     },
@@ -4447,12 +2302,6 @@
           "image_value": "🧶"
         },
         {
-          "word": "Yo-yo",
-          "value": "요요",
-          "image_type": "emoji",
-          "image_value": "🪀"
-        },
-        {
           "word": "You",
           "value": "너",
           "image_type": "emoji",
@@ -4464,24 +2313,7 @@
           "image_type": "emoji",
           "image_value": "✅"
         },
-        {
-          "word": "Yay",
-          "value": "야호",
-          "image_type": "emoji",
-          "image_value": "🎉"
-        },
-        {
-          "word": "Yam",
-          "value": "고구마",
-          "image_type": "emoji",
-          "image_value": "🍠"
-        },
-        {
-          "word": "Yap",
-          "value": "짖다",
-          "image_type": "emoji",
-          "image_value": "🐕"
-        },
+        
         {
           "word": "Yard",
           "value": "마당",
@@ -4495,112 +2327,10 @@
           "image_value": "🧶"
         },
         {
-          "word": "Yawn",
-          "value": "하품하다",
-          "image_type": "emoji",
-          "image_value": "😴"
-        },
-        {
-          "word": "Yea",
-          "value": "예",
-          "image_type": "emoji",
-          "image_value": "👍"
-        },
-        {
           "word": "Year",
           "value": "년",
           "image_type": "emoji",
           "image_value": "📅"
-        },
-        {
-          "word": "Yell",
-          "value": "외치다",
-          "image_type": "emoji",
-          "image_value": "📢"
-        },
-        {
-          "word": "Yellow",
-          "value": "노란색",
-          "image_type": "emoji",
-          "image_value": "🟡"
-        },
-        {
-          "word": "Yelp",
-          "value": "짖다",
-          "image_type": "emoji",
-          "image_value": "🐕"
-        },
-        {
-          "word": "Yen",
-          "value": "엔",
-          "image_type": "emoji",
-          "image_value": "💴"
-        },
-        {
-          "word": "Yeoman",
-          "value": "하급 관리",
-          "image_type": "emoji",
-          "image_value": "👨"
-        },
-        {
-          "word": "Yep",
-          "value": "응",
-          "image_type": "emoji",
-          "image_value": "👍"
-        },
-        {
-          "word": "Yes",
-          "value": "네",
-          "image_type": "emoji",
-          "image_value": "✅"
-        },
-        {
-          "word": "Yet",
-          "value": "아직",
-          "image_type": "emoji",
-          "image_value": "⏳"
-        },
-        {
-          "word": "Yew",
-          "value": "주목",
-          "image_type": "emoji",
-          "image_value": "🌲"
-        },
-        {
-          "word": "Yid",
-          "value": "유대인",
-          "image_type": "emoji",
-          "image_value": "👤"
-        },
-        {
-          "word": "Yin",
-          "value": "음",
-          "image_type": "emoji",
-          "image_value": "⚫"
-        },
-        {
-          "word": "Yip",
-          "value": "짧게 짖다",
-          "image_type": "emoji",
-          "image_value": "🐕"
-        },
-        {
-          "word": "Yob",
-          "value": "불량배",
-          "image_type": "emoji",
-          "image_value": "😠"
-        },
-        {
-          "word": "Yodel",
-          "value": "요들",
-          "image_type": "emoji",
-          "image_value": "🎵"
-        },
-        {
-          "word": "Yoga",
-          "value": "요가",
-          "image_type": "emoji",
-          "image_value": "🧘"
         }
       ]
     },
@@ -4634,112 +2364,10 @@
           "image_value": "0️⃣"
         },
         {
-          "word": "Zero",
-          "value": "영",
-          "image_type": "emoji",
-          "image_value": "0️⃣"
-        },
-        {
-          "word": "Zap",
-          "value": "쾅",
-          "image_type": "emoji",
-          "image_value": "⚡"
-        },
-        {
-          "word": "Zax",
-          "value": "도끼",
-          "image_type": "emoji",
-          "image_value": "🪓"
-        },
-        {
-          "word": "Zed",
-          "value": "Z",
-          "image_type": "emoji",
-          "image_value": "🔤"
-        },
-        {
-          "word": "Zee",
-          "value": "Z",
-          "image_type": "emoji",
-          "image_value": "🔤"
-        },
-        {
-          "word": "Zen",
-          "value": "선",
-          "image_type": "emoji",
-          "image_value": "🧘"
-        },
-        {
-          "word": "Zep",
-          "value": "제프",
-          "image_type": "emoji",
-          "image_value": "🚂"
-        },
-        {
           "word": "Zest",
           "value": "열정",
           "image_type": "emoji",
           "image_value": "🔥"
-        },
-        {
-          "word": "Zig",
-          "value": "지그",
-          "image_type": "emoji",
-          "image_value": "⚡"
-        },
-        {
-          "word": "Zilch",
-          "value": "아무것도",
-          "image_type": "emoji",
-          "image_value": "❌"
-        },
-        {
-          "word": "Zinc",
-          "value": "아연",
-          "image_type": "emoji",
-          "image_value": "⚗️"
-        },
-        {
-          "word": "Zing",
-          "value": "징",
-          "image_type": "emoji",
-          "image_value": "⚡"
-        },
-        {
-          "word": "Zion",
-          "value": "시온",
-          "image_type": "emoji",
-          "image_value": "⛰️"
-        },
-        {
-          "word": "Zip",
-          "value": "지퍼",
-          "image_type": "emoji",
-          "image_value": "🤐"
-        },
-        {
-          "word": "Zit",
-          "value": "여드름",
-          "image_type": "emoji",
-          "image_value": "🔴"
-        },
-        {
-          "word": "Zizz",
-          "value": "잠",
-          "image_type": "emoji",
-          "image_value": "😴"
-        },
-        {
-          "word": "Zo",
-          "value": "동물",
-          "image_type": "emoji",
-          "image_value": "🐾"
-        },
-        {
-          "word": "Zoa",
-          "value": "동물",
-          "image_type": "emoji",
-          "image_value": "🐾"
         },
         {
           "word": "Zone",
@@ -4758,36 +2386,6 @@
           "value": "확대",
           "image_type": "emoji",
           "image_value": "🔍"
-        },
-        {
-          "word": "Zoot",
-          "value": "줏",
-          "image_type": "emoji",
-          "image_value": "👕"
-        },
-        {
-          "word": "Zorb",
-          "value": "좁",
-          "image_type": "emoji",
-          "image_value": "⚽"
-        },
-        {
-          "word": "Zouk",
-          "value": "주크",
-          "image_type": "emoji",
-          "image_value": "🎵"
-        },
-        {
-          "word": "Zulu",
-          "value": "줄루",
-          "image_type": "emoji",
-          "image_value": "👤"
-        },
-        {
-          "word": "Zzz",
-          "value": "쿨쿨",
-          "image_type": "emoji",
-          "image_value": "😴"
         }
       ]
     }
