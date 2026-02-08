@@ -1,5 +1,5 @@
 {
-  "version": "0.5",
+  "version": "0.6",
   "data": [
     {
       "uppercase": "A",
@@ -187,7 +187,6 @@
           "image_type": "emoji",
           "image_value": "👜"
         },
-        
         {
           "word": "Beautiful",
           "value": "아름다운",
@@ -296,7 +295,7 @@
           "value": "양초",
           "image_type": "emoji",
           "image_value": "🕯️"
-        },      
+        },
         {
           "word": "Carrot",
           "value": "당근",
@@ -351,12 +350,6 @@
           "value": "하루",
           "image_type": "emoji",
           "image_value": "☀️"
-        },
-        {
-          "word": "Desk",
-          "value": "책상",
-          "image_type": "emoji",
-          "image_value": "🪑"
         },
         {
           "word": "Date",
@@ -454,12 +447,6 @@
           "value": "지우개",
           "image_type": "emoji",
           "image_value": "🧽"
-        },
-        {
-          "word": "Eye",
-          "value": "눈",
-          "image_type": "emoji",
-          "image_value": "👀"
         }
       ]
     },
@@ -504,7 +491,6 @@
           "image_type": "emoji",
           "image_value": "😊"
         },
-        
         {
           "word": "Farm",
           "value": "농장",
@@ -734,7 +720,7 @@
           "value": "언덕",
           "image_type": "emoji",
           "image_value": "🌄"
-        },      
+        },
         {
           "word": "Hole",
           "value": "구멍",
@@ -747,7 +733,6 @@
           "image_type": "emoji",
           "image_value": "🏡"
         },
-        
         {
           "word": "Hot",
           "value": "뜨거운",
@@ -779,7 +764,6 @@
           "image_type": "emoji",
           "image_value": "🍦"
         },
-        
         {
           "word": "Island",
           "value": "섬",
@@ -804,7 +788,6 @@
           "image_type": "emoji",
           "image_value": "⭐"
         },
-        
         {
           "word": "Image",
           "value": "이미지",
@@ -926,7 +909,7 @@
           "value": "캥거루",
           "image_type": "emoji",
           "image_value": "🦘"
-        },  
+        },
         {
           "word": "Koala",
           "value": "코알라",
@@ -1347,7 +1330,6 @@
           "image_type": "emoji",
           "image_value": "👸"
         },
-        
         {
           "word": "Question",
           "value": "질문",
@@ -1591,7 +1573,6 @@
           "image_type": "emoji",
           "image_value": "🐢"
         },
-        
         {
           "word": "Two",
           "value": "2",
@@ -1653,14 +1634,12 @@
           "image_type": "emoji",
           "image_value": "⬇️"
         },
-        
         {
           "word": "Use",
           "value": "사용하다",
           "image_type": "emoji",
           "image_value": "🔧"
         },
-        
         {
           "word": "Ugly",
           "value": "못생긴",
@@ -1813,7 +1792,6 @@
           "image_type": "emoji",
           "image_value": "🤲"
         }
-        
       ]
     },
     {
