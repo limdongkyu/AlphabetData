@@ -106,6 +106,7 @@ This Privacy Policy describes how the Alphabet Learning App ("App") handles user
 **This App does not collect any personal information.**
 
 The App operates fully offline and:
+
 - Does not collect personally identifiable information (name, email, phone number, etc.)
 - Does not require account creation
 - Does not transmit user behavior or analytics data to any server
@@ -124,6 +125,7 @@ This data is never transmitted outside your device and is deleted when you unins
 ### Third-Party Services
 
 This App does **not** use:
+
 - Advertising networks (no ads — this is a paid app)
 - Analytics tools (e.g., Google Analytics, Firebase Analytics)
 - Social login services
@@ -149,5 +151,5 @@ We may update this Privacy Policy from time to time. Any changes will be communi
 
 If you have any questions about this Privacy Policy, please contact us at:
 
-- **Email**: [Enter your email address]
-- **App Name**: Alphabet Learning App
+- **Email**: <wholook.dowon@gmail.com>
+- **App Name**: Alphabet Explorers App
