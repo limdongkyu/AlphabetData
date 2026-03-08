@@ -1,0 +1,587 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Alphabet Explorers - 어린이 영어 알파벳 학습 앱</title>
+  <meta name="description" content="A~Z 알파벳을 발음, 단어, 쓰기, 퀴즈로 재미있게 배우는 어린이 영어 앱" />
+  <style>
+    * { box-sizing: border-box; margin: 0; padding: 0; }
+    html { scroll-behavior: smooth; }
+    body { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif; background: #fff; color: #1a1a2e; }
+
+    /* HERO */
+    .hero {
+      background: linear-gradient(145deg, #4f8ef7 0%, #7c5cbf 60%, #a855c8 100%);
+      color: white;
+      padding: 72px 24px 80px;
+      text-align: center;
+      position: relative;
+      overflow: hidden;
+    }
+    .hero::before {
+      content: '';
+      position: absolute; inset: 0;
+      background: radial-gradient(ellipse at 30% 20%, rgba(255,255,255,0.15) 0%, transparent 60%);
+    }
+    .hero .app-icon { width: 120px; height: 120px; border-radius: 28px; margin: 0 auto 16px; display: block; box-shadow: 0 8px 24px rgba(0,0,0,0.3); }
+    .hero h1 { font-size: 36px; font-weight: 800; margin-bottom: 10px; letter-spacing: -0.5px; }
+    .hero .tagline { font-size: 18px; opacity: 0.9; margin-bottom: 32px; line-height: 1.5; }
+    .hero .badges { display: flex; justify-content: center; gap: 10px; flex-wrap: wrap; margin-bottom: 36px; }
+    .hero .badge {
+      background: rgba(255,255,255,0.2);
+      border: 1px solid rgba(255,255,255,0.35);
+      border-radius: 20px;
+      padding: 6px 16px;
+      font-size: 13px;
+      font-weight: 500;
+    }
+    .store-btn {
+      display: inline-flex;
+      align-items: center;
+      gap: 10px;
+      background: white;
+      color: #1a1a2e;
+      border-radius: 14px;
+      padding: 14px 28px;
+      font-size: 16px;
+      font-weight: 700;
+      text-decoration: none;
+      box-shadow: 0 4px 20px rgba(0,0,0,0.2);
+      transition: transform 0.2s;
+    }
+    .store-btn:hover { transform: translateY(-2px); }
+    .store-btn .store-icon { font-size: 24px; }
+
+    /* LANG TABS */
+    .lang-bar {
+      display: flex;
+      justify-content: center;
+      gap: 8px;
+      padding: 16px 24px;
+      background: #f9fafb;
+      border-bottom: 1px solid #e8ecf0;
+      position: sticky;
+      top: 0;
+      z-index: 100;
+    }
+    .lang-bar button {
+      padding: 7px 18px;
+      border: none;
+      border-radius: 20px;
+      background: #e8ecf0;
+      color: #555;
+      font-size: 13px;
+      cursor: pointer;
+      transition: all 0.2s;
+    }
+    .lang-bar button.active { background: #4f8ef7; color: white; font-weight: 600; }
+
+    .lang-content { display: none; }
+    .lang-content.active { display: block; }
+
+    /* FEATURES */
+    .section { padding: 64px 24px; }
+    .section-inner { max-width: 800px; margin: 0 auto; }
+    .section-title {
+      font-size: 26px; font-weight: 800;
+      text-align: center; margin-bottom: 8px;
+      color: #1a1a2e;
+    }
+    .section-sub {
+      text-align: center; color: #777;
+      font-size: 15px; margin-bottom: 48px;
+    }
+
+    .features-grid {
+      display: grid;
+      grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));
+      gap: 20px;
+    }
+    .feature-card {
+      background: #f5f7ff;
+      border-radius: 20px;
+      padding: 28px 22px;
+      text-align: center;
+    }
+    .feature-card .icon { font-size: 42px; margin-bottom: 14px; display: block; }
+    .feature-card h3 { font-size: 16px; font-weight: 700; margin-bottom: 8px; color: #1a1a2e; }
+    .feature-card p { font-size: 13px; color: #666; line-height: 1.6; }
+
+    /* HOW IT WORKS */
+    .steps { background: #f9fafb; }
+    .steps-list { display: flex; flex-direction: column; gap: 24px; }
+    .step {
+      display: flex;
+      align-items: flex-start;
+      gap: 20px;
+      background: white;
+      border-radius: 16px;
+      padding: 22px 24px;
+      box-shadow: 0 2px 8px rgba(0,0,0,0.05);
+    }
+    .step-num {
+      min-width: 40px; height: 40px;
+      background: linear-gradient(135deg, #4f8ef7, #7c5cbf);
+      border-radius: 12px;
+      color: white;
+      font-size: 18px; font-weight: 800;
+      display: flex; align-items: center; justify-content: center;
+    }
+    .step-text h3 { font-size: 15px; font-weight: 700; margin-bottom: 4px; }
+    .step-text p { font-size: 13px; color: #666; line-height: 1.6; }
+
+    /* CTA */
+    .cta {
+      background: linear-gradient(135deg, #4f8ef7 0%, #7c5cbf 100%);
+      color: white;
+      text-align: center;
+      padding: 64px 24px;
+    }
+    .cta h2 { font-size: 26px; font-weight: 800; margin-bottom: 12px; }
+    .cta p { font-size: 16px; opacity: 0.9; margin-bottom: 32px; }
+    .cta .free-badge {
+      display: inline-block;
+      background: rgba(255,255,255,0.15);
+      border: 1px solid rgba(255,255,255,0.3);
+      border-radius: 20px;
+      padding: 4px 16px;
+      font-size: 13px;
+      margin-bottom: 24px;
+    }
+
+    /* FOOTER */
+    footer {
+      background: #1a1a2e;
+      color: rgba(255,255,255,0.5);
+      text-align: center;
+      padding: 28px 24px;
+      font-size: 12px;
+      line-height: 1.8;
+    }
+    footer a { color: rgba(255,255,255,0.6); text-decoration: underline; }
+  </style>
+</head>
+<body>
+
+<!-- HERO -->
+<div class="hero">
+  <img class="app-icon" src="icons/icon-free.png" alt="Alphabet Explorers" />
+  <h1>Alphabet Explorers</h1>
+  <p class="tagline" id="hero-tagline">어린이를 위한 영어 알파벳 완전 학습 앱</p>
+  <div class="badges">
+    <span class="badge">🆓 무료</span>
+    <span class="badge">4+ 연령</span>
+    <span class="badge">🌏 한 · 日 · 中</span>
+    <span class="badge">📱 iPhone · iPad</span>
+  </div>
+  <a class="store-btn" href="#" id="store-link">
+    <span class="store-icon">🍎</span>
+    <span>App Store에서 다운로드</span>
+  </a>
+</div>
+
+<!-- LANG BAR -->
+<div class="lang-bar">
+  <button class="active" onclick="setLang('ko', event)">한국어</button>
+  <button onclick="setLang('ja', event)">日本語</button>
+  <button onclick="setLang('zh', event)">中文</button>
+  <button onclick="setLang('en', event)">English</button>
+</div>
+
+<!-- ===== 한국어 ===== -->
+<div class="lang-content active" id="lang-ko">
+
+  <div class="section">
+    <div class="section-inner">
+      <h2 class="section-title">✨ 주요 기능</h2>
+      <p class="section-sub">A부터 Z까지, 4가지 방법으로 재미있게 배워요</p>
+      <div class="features-grid">
+        <div class="feature-card">
+          <span class="icon">🔊</span>
+          <h3>발음 학습</h3>
+          <p>TTS 음성으로 원어민 발음을 듣고 따라 배워요</p>
+        </div>
+        <div class="feature-card">
+          <span class="icon">📖</span>
+          <h3>단어 학습</h3>
+          <p>알파벳마다 대표 단어와 그림으로 자연스럽게 익혀요</p>
+        </div>
+        <div class="feature-card">
+          <span class="icon">✍️</span>
+          <h3>쓰기 연습</h3>
+          <p>AI가 필기를 인식해 올바른 획순을 알려줘요</p>
+        </div>
+        <div class="feature-card">
+          <span class="icon">🎯</span>
+          <h3>퀴즈</h3>
+          <p>알파벳 & 단어 퀴즈로 배운 내용을 확인해요</p>
+        </div>
+        <div class="feature-card">
+          <span class="icon">📊</span>
+          <h3>진행도 & 수료증</h3>
+          <p>학습 현황을 한눈에 확인하고 수료증을 받아요</p>
+        </div>
+        <div class="feature-card">
+          <span class="icon">🌏</span>
+          <h3>다국어 지원</h3>
+          <p>한국어, 일본어, 중국어 UI를 지원해요</p>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <div class="section steps">
+    <div class="section-inner">
+      <h2 class="section-title">📚 이렇게 배워요</h2>
+      <p class="section-sub">단계별 학습으로 알파벳을 완전 정복</p>
+      <div class="steps-list">
+        <div class="step">
+          <div class="step-num">1</div>
+          <div class="step-text">
+            <h3>알파벳 보고 듣기</h3>
+            <p>대문자·소문자를 보면서 원어민 발음을 들어요</p>
+          </div>
+        </div>
+        <div class="step">
+          <div class="step-num">2</div>
+          <div class="step-text">
+            <h3>단어로 확장</h3>
+            <p>Apple, Ball, Cat… 그림과 함께 단어를 익혀요</p>
+          </div>
+        </div>
+        <div class="step">
+          <div class="step-num">3</div>
+          <div class="step-text">
+            <h3>손으로 직접 쓰기</h3>
+            <p>AI가 실시간으로 필기를 채점해요</p>
+          </div>
+        </div>
+        <div class="step">
+          <div class="step-num">4</div>
+          <div class="step-text">
+            <h3>퀴즈로 복습</h3>
+            <p>재미있는 퀴즈로 오늘 배운 내용을 확인해요</p>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <div class="cta">
+    <div class="free-badge">🆓 완전 무료</div>
+    <h2>지금 바로 시작해요!</h2>
+    <p>아이와 함께 A~Z 알파벳 여행을 떠나보세요</p>
+    <a class="store-btn" href="#">
+      <span class="store-icon">🍎</span>
+      <span>App Store에서 무료 다운로드</span>
+    </a>
+  </div>
+
+</div>
+
+<!-- ===== 日本語 ===== -->
+<div class="lang-content" id="lang-ja">
+
+  <div class="section">
+    <div class="section-inner">
+      <h2 class="section-title">✨ 主な機能</h2>
+      <p class="section-sub">AからZまで、4つの方法で楽しく学ぼう</p>
+      <div class="features-grid">
+        <div class="feature-card">
+          <span class="icon">🔊</span>
+          <h3>発音学習</h3>
+          <p>TTS音声でネイティブ発音を聞いて学べます</p>
+        </div>
+        <div class="feature-card">
+          <span class="icon">📖</span>
+          <h3>単語学習</h3>
+          <p>アルファベットごとに代表的な単語と絵で自然に覚えられます</p>
+        </div>
+        <div class="feature-card">
+          <span class="icon">✍️</span>
+          <h3>書き練習</h3>
+          <p>AIが手書きを認識して正しい書き順を教えてくれます</p>
+        </div>
+        <div class="feature-card">
+          <span class="icon">🎯</span>
+          <h3>クイズ</h3>
+          <p>アルファベット・単語クイズで学んだ内容を確認できます</p>
+        </div>
+        <div class="feature-card">
+          <span class="icon">📊</span>
+          <h3>進捗 &amp; 修了証</h3>
+          <p>学習状況を一目で確認し、修了証を受け取れます</p>
+        </div>
+        <div class="feature-card">
+          <span class="icon">🌏</span>
+          <h3>多言語対応</h3>
+          <p>日本語・韓国語・中国語のUIに対応しています</p>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <div class="section steps">
+    <div class="section-inner">
+      <h2 class="section-title">📚 こうやって学ぶよ</h2>
+      <p class="section-sub">ステップごとにアルファベットを完全マスター</p>
+      <div class="steps-list">
+        <div class="step">
+          <div class="step-num">1</div>
+          <div class="step-text">
+            <h3>アルファベットを見て聞く</h3>
+            <p>大文字・小文字を見ながらネイティブ発音を聞きます</p>
+          </div>
+        </div>
+        <div class="step">
+          <div class="step-num">2</div>
+          <div class="step-text">
+            <h3>単語に広げる</h3>
+            <p>Apple, Ball, Cat… 絵と一緒に単語を覚えます</p>
+          </div>
+        </div>
+        <div class="step">
+          <div class="step-num">3</div>
+          <div class="step-text">
+            <h3>手で書く練習</h3>
+            <p>AIがリアルタイムで手書きを採点します</p>
+          </div>
+        </div>
+        <div class="step">
+          <div class="step-num">4</div>
+          <div class="step-text">
+            <h3>クイズで復習</h3>
+            <p>楽しいクイズで今日学んだ内容を確認します</p>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <div class="cta">
+    <div class="free-badge">🆓 完全無料</div>
+    <h2>今すぐ始めよう！</h2>
+    <p>お子様と一緒にA〜Zのアルファベットの旅へ</p>
+    <a class="store-btn" href="#">
+      <span class="store-icon">🍎</span>
+      <span>App Storeから無料ダウンロード</span>
+    </a>
+  </div>
+
+</div>
+
+<!-- ===== 中文 ===== -->
+<div class="lang-content" id="lang-zh">
+
+  <div class="section">
+    <div class="section-inner">
+      <h2 class="section-title">✨ 主要功能</h2>
+      <p class="section-sub">从A到Z，用4种方式趣味学习</p>
+      <div class="features-grid">
+        <div class="feature-card">
+          <span class="icon">🔊</span>
+          <h3>发音学习</h3>
+          <p>通过TTS语音听取母语者发音并学习</p>
+        </div>
+        <div class="feature-card">
+          <span class="icon">📖</span>
+          <h3>单词学习</h3>
+          <p>每个字母配有代表性单词和图片，自然记忆</p>
+        </div>
+        <div class="feature-card">
+          <span class="icon">✍️</span>
+          <h3>书写练习</h3>
+          <p>AI识别手写，指导正确笔顺</p>
+        </div>
+        <div class="feature-card">
+          <span class="icon">🎯</span>
+          <h3>测验</h3>
+          <p>通过字母和单词测验巩固所学内容</p>
+        </div>
+        <div class="feature-card">
+          <span class="icon">📊</span>
+          <h3>进度 &amp; 结业证书</h3>
+          <p>一目了然查看学习进度，获取结业证书</p>
+        </div>
+        <div class="feature-card">
+          <span class="icon">🌏</span>
+          <h3>多语言支持</h3>
+          <p>支持中文、韩语、日语界面</p>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <div class="section steps">
+    <div class="section-inner">
+      <h2 class="section-title">📚 学习步骤</h2>
+      <p class="section-sub">循序渐进，全面掌握字母</p>
+      <div class="steps-list">
+        <div class="step">
+          <div class="step-num">1</div>
+          <div class="step-text">
+            <h3>看字母、听发音</h3>
+            <p>边看大小写字母，边听母语者发音</p>
+          </div>
+        </div>
+        <div class="step">
+          <div class="step-num">2</div>
+          <div class="step-text">
+            <h3>扩展到单词</h3>
+            <p>Apple, Ball, Cat… 配图记忆单词</p>
+          </div>
+        </div>
+        <div class="step">
+          <div class="step-num">3</div>
+          <div class="step-text">
+            <h3>动手书写练习</h3>
+            <p>AI实时批改手写内容</p>
+          </div>
+        </div>
+        <div class="step">
+          <div class="step-num">4</div>
+          <div class="step-text">
+            <h3>测验复习</h3>
+            <p>通过趣味测验检验今日所学</p>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <div class="cta">
+    <div class="free-badge">🆓 完全免费</div>
+    <h2>立即开始！</h2>
+    <p>和孩子一起开启A~Z字母探索之旅</p>
+    <a class="store-btn" href="#">
+      <span class="store-icon">🍎</span>
+      <span>在App Store免费下载</span>
+    </a>
+  </div>
+
+</div>
+
+<!-- ===== English ===== -->
+<div class="lang-content" id="lang-en">
+
+  <div class="section">
+    <div class="section-inner">
+      <h2 class="section-title">✨ Key Features</h2>
+      <p class="section-sub">Learn A to Z in 4 fun ways</p>
+      <div class="features-grid">
+        <div class="feature-card">
+          <span class="icon">🔊</span>
+          <h3>Pronunciation</h3>
+          <p>Hear native-quality pronunciation via TTS and learn to say it right</p>
+        </div>
+        <div class="feature-card">
+          <span class="icon">📖</span>
+          <h3>Word Learning</h3>
+          <p>Learn a key word and picture for every letter of the alphabet</p>
+        </div>
+        <div class="feature-card">
+          <span class="icon">✍️</span>
+          <h3>Writing Practice</h3>
+          <p>AI recognizes your handwriting and gives instant feedback</p>
+        </div>
+        <div class="feature-card">
+          <span class="icon">🎯</span>
+          <h3>Quizzes</h3>
+          <p>Test what you've learned with alphabet and word quizzes</p>
+        </div>
+        <div class="feature-card">
+          <span class="icon">📊</span>
+          <h3>Progress &amp; Certificate</h3>
+          <p>Track your learning progress and earn a completion certificate</p>
+        </div>
+        <div class="feature-card">
+          <span class="icon">🌏</span>
+          <h3>Multilingual UI</h3>
+          <p>Available in Korean, Japanese, and Chinese</p>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <div class="section steps">
+    <div class="section-inner">
+      <h2 class="section-title">📚 How It Works</h2>
+      <p class="section-sub">Step-by-step mastery of the alphabet</p>
+      <div class="steps-list">
+        <div class="step">
+          <div class="step-num">1</div>
+          <div class="step-text">
+            <h3>See &amp; Listen</h3>
+            <p>View uppercase and lowercase letters while hearing native pronunciation</p>
+          </div>
+        </div>
+        <div class="step">
+          <div class="step-num">2</div>
+          <div class="step-text">
+            <h3>Learn Words</h3>
+            <p>Apple, Ball, Cat… memorize words with illustrations</p>
+          </div>
+        </div>
+        <div class="step">
+          <div class="step-num">3</div>
+          <div class="step-text">
+            <h3>Write by Hand</h3>
+            <p>AI grades your handwriting in real time</p>
+          </div>
+        </div>
+        <div class="step">
+          <div class="step-num">4</div>
+          <div class="step-text">
+            <h3>Review with Quizzes</h3>
+            <p>Fun quizzes to check what you learned today</p>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <div class="cta">
+    <div class="free-badge">🆓 Completely Free</div>
+    <h2>Start Learning Today!</h2>
+    <p>Take your child on an A~Z alphabet adventure</p>
+    <a class="store-btn" href="#">
+      <span class="store-icon">🍎</span>
+      <span>Download Free on App Store</span>
+    </a>
+  </div>
+
+</div>
+
+<footer>
+  &copy; 2025 Alphabet Explorers &nbsp;|&nbsp;
+  <a href="support-free.html">Support</a> &nbsp;|&nbsp;
+  <a href="privacy-free.html">Privacy Policy</a>
+</footer>
+
+<script>
+  const taglines = {
+    ko: '어린이를 위한 영어 알파벳 완전 학습 앱',
+    ja: '子どものための英語アルファベット完全学習アプリ',
+    zh: '专为儿童设计的英文字母全面学习应用',
+    en: 'The Complete Alphabet Learning App for Kids'
+  };
+  const storeLabels = {
+    ko: 'App Store에서 다운로드',
+    ja: 'App Storeからダウンロード',
+    zh: '在App Store下载',
+    en: 'Download on App Store'
+  };
+
+  function setLang(lang, e) {
+    document.querySelectorAll('.lang-content').forEach(el => el.classList.remove('active'));
+    document.querySelectorAll('.lang-bar button').forEach(btn => btn.classList.remove('active'));
+    document.getElementById('lang-' + lang).classList.add('active');
+    e.target.classList.add('active');
+    document.getElementById('hero-tagline').textContent = taglines[lang];
+    document.getElementById('store-link').querySelector('span:last-child').textContent = storeLabels[lang];
+  }
+</script>
+
+</body>
+</html>
