@@ -1,0 +1,366 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Alphabet Explorers Pro - Support</title>
+  <style>
+    * { box-sizing: border-box; margin: 0; padding: 0; }
+    body { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif; background: #f5f7fa; color: #1a1a2e; }
+
+    header {
+      background: linear-gradient(135deg, #7c5cbf 0%, #4a3080 100%);
+      color: white;
+      padding: 48px 24px 40px;
+      text-align: center;
+    }
+    header .icon { font-size: 64px; margin-bottom: 12px; }
+    header h1 { font-size: 28px; font-weight: 700; margin-bottom: 6px; }
+    header .badge {
+      display: inline-block;
+      background: rgba(255,255,255,0.2);
+      border: 1px solid rgba(255,255,255,0.4);
+      border-radius: 20px;
+      padding: 4px 14px;
+      font-size: 13px;
+      margin-bottom: 8px;
+    }
+    header p { font-size: 15px; opacity: 0.85; }
+
+    .lang-tabs {
+      display: flex;
+      justify-content: center;
+      gap: 8px;
+      padding: 20px 24px 0;
+      background: white;
+      border-bottom: 1px solid #e8ecf0;
+    }
+    .lang-tabs button {
+      padding: 8px 20px;
+      border: none;
+      border-radius: 20px;
+      background: #f0f2f5;
+      color: #555;
+      font-size: 14px;
+      cursor: pointer;
+      transition: all 0.2s;
+    }
+    .lang-tabs button.active {
+      background: #7c5cbf;
+      color: white;
+      font-weight: 600;
+    }
+
+    .container { max-width: 720px; margin: 0 auto; padding: 32px 24px 64px; }
+
+    .section {
+      background: white;
+      border-radius: 16px;
+      padding: 28px;
+      margin-bottom: 20px;
+      box-shadow: 0 2px 8px rgba(0,0,0,0.06);
+    }
+    .section h2 {
+      font-size: 18px;
+      font-weight: 700;
+      margin-bottom: 16px;
+      color: #7c5cbf;
+      display: flex;
+      align-items: center;
+      gap: 8px;
+    }
+
+    .faq-item { margin-bottom: 20px; }
+    .faq-item:last-child { margin-bottom: 0; }
+    .faq-item h3 { font-size: 15px; font-weight: 600; margin-bottom: 6px; color: #1a1a2e; }
+    .faq-item p { font-size: 14px; line-height: 1.7; color: #555; }
+
+    .features { list-style: none; }
+    .features li {
+      padding: 10px 0;
+      border-bottom: 1px solid #f0f2f5;
+      font-size: 14px;
+      color: #444;
+      display: flex;
+      align-items: center;
+      gap: 10px;
+    }
+    .features li:last-child { border-bottom: none; }
+
+    .contact-btn {
+      display: inline-block;
+      margin-top: 12px;
+      padding: 12px 28px;
+      background: #7c5cbf;
+      color: white;
+      border-radius: 12px;
+      text-decoration: none;
+      font-size: 15px;
+      font-weight: 600;
+    }
+
+    .refund-note {
+      background: #f9f5ff;
+      border-left: 4px solid #7c5cbf;
+      border-radius: 0 8px 8px 0;
+      padding: 14px 16px;
+      font-size: 13px;
+      color: #555;
+      line-height: 1.6;
+      margin-top: 16px;
+    }
+
+    .lang-content { display: none; }
+    .lang-content.active { display: block; }
+
+    footer {
+      text-align: center;
+      padding: 24px;
+      font-size: 12px;
+      color: #999;
+    }
+  </style>
+</head>
+<body>
+
+<header>
+  <div class="icon">🔤</div>
+  <div class="badge">✨ Premium</div>
+  <h1>Alphabet Explorers Pro</h1>
+  <p>Support / 지원 / サポート / 支持</p>
+</header>
+
+<div class="lang-tabs">
+  <button class="active" onclick="setLang('ko')">한국어</button>
+  <button onclick="setLang('ja')">日本語</button>
+  <button onclick="setLang('zh')">中文</button>
+  <button onclick="setLang('en')">English</button>
+</div>
+
+<div class="container">
+
+  <!-- 한국어 -->
+  <div class="lang-content active" id="lang-ko">
+    <div class="section">
+      <h2>✨ 프리미엄 기능</h2>
+      <ul class="features">
+        <li>🚫 광고 없는 깔끔한 학습 환경</li>
+        <li>🔤 A~Z 알파벳 발음 &amp; 단어 학습 (TTS 음성 지원)</li>
+        <li>✍️ AI 기반 필기 인식 쓰기 연습</li>
+        <li>🎯 재미있는 알파벳 &amp; 단어 퀴즈</li>
+        <li>📊 학습 진행도 &amp; 수료증</li>
+        <li>🌏 한국어 / 일본어 / 중국어 지원</li>
+      </ul>
+    </div>
+
+    <div class="section">
+      <h2>❓ 자주 묻는 질문</h2>
+      <div class="faq-item">
+        <h3>Q. 앱이 실행되지 않아요.</h3>
+        <p>앱을 완전히 종료 후 다시 실행해 주세요. 문제가 지속되면 앱을 삭제 후 재설치해 보세요. 재설치 후에도 구매 내역은 유지됩니다.</p>
+      </div>
+      <div class="faq-item">
+        <h3>Q. 발음이 나오지 않아요.</h3>
+        <p>기기의 볼륨을 확인하고, 무음 모드가 해제되어 있는지 확인해 주세요.</p>
+      </div>
+      <div class="faq-item">
+        <h3>Q. 쓰기 인식이 잘 안 돼요.</h3>
+        <p>화면을 손가락으로 천천히, 또렷하게 써주세요. 너무 빠르거나 작게 쓰면 인식률이 낮아질 수 있습니다.</p>
+      </div>
+      <div class="faq-item">
+        <h3>Q. 진행도가 초기화됐어요.</h3>
+        <p>진행도는 기기 내 로컬에 저장됩니다. 앱 삭제 시 데이터가 초기화될 수 있습니다.</p>
+      </div>
+      <div class="faq-item">
+        <h3>Q. 환불을 받고 싶어요.</h3>
+        <p>App Store 구매에 대한 환불은 Apple에서 처리합니다. <strong>reportaproblem.apple.com</strong>에서 환불을 요청해 주세요.</p>
+      </div>
+      <div class="faq-item">
+        <h3>Q. 새 기기에서도 Pro 버전을 쓸 수 있나요?</h3>
+        <p>동일한 Apple ID로 App Store에서 앱을 다시 다운로드하면 무료로 이용할 수 있습니다.</p>
+      </div>
+    </div>
+
+    <div class="section">
+      <h2>📬 문의하기</h2>
+      <p style="font-size:14px; color:#555; margin-bottom:12px;">해결되지 않는 문제가 있으시면 이메일로 문의해 주세요. 최대한 빠르게 답변 드리겠습니다.</p>
+      <a class="contact-btn" href="mailto:wholook.dowon@gmail.com">이메일 문의</a>
+      <div class="refund-note">
+        💡 환불 문의는 <strong>reportaproblem.apple.com</strong> 에서 Apple에 직접 요청하시면 더 빠르게 처리됩니다.
+      </div>
+    </div>
+  </div>
+
+  <!-- 日本語 -->
+  <div class="lang-content" id="lang-ja">
+    <div class="section">
+      <h2>✨ プレミアム機能</h2>
+      <ul class="features">
+        <li>🚫 広告なしのクリーンな学習環境</li>
+        <li>🔤 A〜Z アルファベット発音 &amp; 単語学習（TTS音声対応）</li>
+        <li>✍️ AIによる手書き認識書き練習</li>
+        <li>🎯 楽しいアルファベット &amp; 単語クイズ</li>
+        <li>📊 学習進捗 &amp; 修了証</li>
+        <li>🌏 日本語 / 韓国語 / 中国語対応</li>
+      </ul>
+    </div>
+
+    <div class="section">
+      <h2>❓ よくある質問</h2>
+      <div class="faq-item">
+        <h3>Q. アプリが起動しません。</h3>
+        <p>アプリを完全に終了してから再起動してください。問題が続く場合は削除して再インストールしてください。再インストール後も購入履歴は維持されます。</p>
+      </div>
+      <div class="faq-item">
+        <h3>Q. 発音が聞こえません。</h3>
+        <p>端末の音量を確認し、消音モードが解除されているかご確認ください。</p>
+      </div>
+      <div class="faq-item">
+        <h3>Q. 手書き認識がうまくいきません。</h3>
+        <p>指でゆっくり、はっきりと書いてください。速すぎたり小さすぎると認識率が下がる場合があります。</p>
+      </div>
+      <div class="faq-item">
+        <h3>Q. 進捗がリセットされました。</h3>
+        <p>進捗はデバイス内にローカル保存されます。アプリを削除するとデータが初期化される場合があります。</p>
+      </div>
+      <div class="faq-item">
+        <h3>Q. 返金を希望します。</h3>
+        <p>App Store の購入に関する返金は Apple が処理します。<strong>reportaproblem.apple.com</strong> から返金をリクエストしてください。</p>
+      </div>
+      <div class="faq-item">
+        <h3>Q. 新しい端末でもPro版を使えますか？</h3>
+        <p>同じ Apple ID で App Store からアプリを再ダウンロードすれば、無料でご利用いただけます。</p>
+      </div>
+    </div>
+
+    <div class="section">
+      <h2>📬 お問い合わせ</h2>
+      <p style="font-size:14px; color:#555; margin-bottom:12px;">解決しない問題がございましたら、メールでお問い合わせください。できる限り早くご返答いたします。</p>
+      <a class="contact-btn" href="mailto:wholook.dowon@gmail.com">メールで問い合わせる</a>
+      <div class="refund-note">
+        💡 返金のお問い合わせは <strong>reportaproblem.apple.com</strong> から Apple に直接リクエストすると、より迅速に処理されます。
+      </div>
+    </div>
+  </div>
+
+  <!-- 中文 -->
+  <div class="lang-content" id="lang-zh">
+    <div class="section">
+      <h2>✨ 高级功能</h2>
+      <ul class="features">
+        <li>🚫 无广告的清爽学习环境</li>
+        <li>🔤 A~Z 字母发音 &amp; 单词学习（支持TTS语音）</li>
+        <li>✍️ 基于AI的手写识别书写练习</li>
+        <li>🎯 趣味字母 &amp; 单词测验</li>
+        <li>📊 学习进度 &amp; 结业证书</li>
+        <li>🌏 支持中文 / 韩语 / 日语</li>
+      </ul>
+    </div>
+
+    <div class="section">
+      <h2>❓ 常见问题</h2>
+      <div class="faq-item">
+        <h3>Q. 应用无法启动。</h3>
+        <p>请完全关闭应用后重新启动。如果问题持续，请删除后重新安装。重新安装后购买记录仍会保留。</p>
+      </div>
+      <div class="faq-item">
+        <h3>Q. 没有发音声音。</h3>
+        <p>请检查设备音量，并确认未开启静音模式。</p>
+      </div>
+      <div class="faq-item">
+        <h3>Q. 手写识别效果不好。</h3>
+        <p>请用手指慢慢、清晰地书写。写得太快或太小可能会降低识别率。</p>
+      </div>
+      <div class="faq-item">
+        <h3>Q. 学习进度被重置了。</h3>
+        <p>进度保存在设备本地。删除应用可能会导致数据被重置。</p>
+      </div>
+      <div class="faq-item">
+        <h3>Q. 我想申请退款。</h3>
+        <p>App Store 购买的退款由 Apple 处理。请在 <strong>reportaproblem.apple.com</strong> 提交退款申请。</p>
+      </div>
+      <div class="faq-item">
+        <h3>Q. 在新设备上也能使用Pro版吗？</h3>
+        <p>使用相同的 Apple ID 在 App Store 重新下载应用即可免费使用。</p>
+      </div>
+    </div>
+
+    <div class="section">
+      <h2>📬 联系我们</h2>
+      <p style="font-size:14px; color:#555; margin-bottom:12px;">如果问题未能解决，请发送电子邮件联系我们。我们将尽快回复您。</p>
+      <a class="contact-btn" href="mailto:wholook.dowon@gmail.com">发送邮件</a>
+      <div class="refund-note">
+        💡 退款申请请直接在 <strong>reportaproblem.apple.com</strong> 向 Apple 提交，处理速度更快。
+      </div>
+    </div>
+  </div>
+
+  <!-- English -->
+  <div class="lang-content" id="lang-en">
+    <div class="section">
+      <h2>✨ Premium Features</h2>
+      <ul class="features">
+        <li>🚫 Ad-free clean learning experience</li>
+        <li>🔤 A~Z Alphabet pronunciation &amp; word learning (TTS support)</li>
+        <li>✍️ AI-based handwriting recognition practice</li>
+        <li>🎯 Fun alphabet &amp; word quizzes</li>
+        <li>📊 Learning progress &amp; certificate</li>
+        <li>🌏 Korean / Japanese / Chinese supported</li>
+      </ul>
+    </div>
+
+    <div class="section">
+      <h2>❓ FAQ</h2>
+      <div class="faq-item">
+        <h3>Q. The app won't open.</h3>
+        <p>Try force-closing the app and reopening it. If the issue persists, delete and reinstall. Your purchase will be restored after reinstallation.</p>
+      </div>
+      <div class="faq-item">
+        <h3>Q. No sound for pronunciation.</h3>
+        <p>Check your device volume and make sure silent mode is off.</p>
+      </div>
+      <div class="faq-item">
+        <h3>Q. Handwriting is not being recognized well.</h3>
+        <p>Write slowly and clearly with your finger. Writing too fast or too small may reduce recognition accuracy.</p>
+      </div>
+      <div class="faq-item">
+        <h3>Q. My progress was reset.</h3>
+        <p>Progress is saved locally on your device. Deleting the app may reset your data.</p>
+      </div>
+      <div class="faq-item">
+        <h3>Q. I'd like a refund.</h3>
+        <p>Refunds for App Store purchases are handled by Apple. Please submit a refund request at <strong>reportaproblem.apple.com</strong>.</p>
+      </div>
+      <div class="faq-item">
+        <h3>Q. Can I use Pro on a new device?</h3>
+        <p>Yes. Simply re-download the app from the App Store using the same Apple ID and it will be free.</p>
+      </div>
+    </div>
+
+    <div class="section">
+      <h2>📬 Contact Us</h2>
+      <p style="font-size:14px; color:#555; margin-bottom:12px;">If your issue is not resolved, please contact us via email. We will respond as soon as possible.</p>
+      <a class="contact-btn" href="mailto:wholook.dowon@gmail.com">Send Email</a>
+      <div class="refund-note">
+        💡 For refund requests, contacting Apple directly at <strong>reportaproblem.apple.com</strong> will be faster.
+      </div>
+    </div>
+  </div>
+
+</div>
+
+<footer>
+  &copy; 2025 Alphabet Explorers Pro. All rights reserved.
+</footer>
+
+<script>
+  function setLang(lang) {
+    document.querySelectorAll('.lang-content').forEach(el => el.classList.remove('active'));
+    document.querySelectorAll('.lang-tabs button').forEach(btn => btn.classList.remove('active'));
+    document.getElementById('lang-' + lang).classList.add('active');
+    event.target.classList.add('active');
+  }
+</script>
+
+</body>
+</html>
